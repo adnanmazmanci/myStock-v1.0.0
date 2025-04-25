@@ -1,0 +1,6 @@
+yfinance
+openai
+python-telegram-bot==13.15
+pyyaml
+feedparser
+

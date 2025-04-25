@@ -1,0 +1,1993 @@
+[2025-04-24 00:30:05] 🔄 Run started
+[2025-04-24 00:30:22] 📰 20 new headlines fetched.
+[2025-04-24 00:30:28] 📤 US headlines sent.
+[2025-04-24 00:30:34] 📤 Global headlines sent.
+[2025-04-24 00:30:37] 📤 Europe headlines sent.
+[2025-04-24 00:30:40] ✅ Final market summary sent.
+[2025-04-24 00:30:40] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 00:49:24] 🔄 Run started
+[2025-04-24 00:49:49] 📰 10 new headlines fetched.
+[2025-04-24 00:49:57] 📤 Europe headlines sent.
+[2025-04-24 00:49:59] 📤 US headlines sent.
+[2025-04-24 00:50:05] 📤 Global headlines sent.
+[2025-04-24 00:50:07] ✅ Final market summary sent.
+[2025-04-24 00:50:07] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 00:51:32] 🔄 Run started
+[2025-04-24 00:51:48] 📰 20 new headlines fetched.
+[2025-04-24 00:51:53] 📤 Global headlines sent.
+[2025-04-24 00:51:57] 📤 US headlines sent.
+[2025-04-24 00:51:59] 📤 Europe headlines sent.
+[2025-04-24 00:52:02] ✅ Final market summary sent.
+[2025-04-24 00:52:02] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 01:03:45] 🔄 Run started
+[2025-04-24 01:04:02] 📰 12 new headlines fetched.
+[2025-04-24 01:04:11] 📤 US headlines sent.
+[2025-04-24 01:04:15] 📤 Global headlines sent.
+[2025-04-24 01:04:16] 📤 Europe headlines sent.
+[2025-04-24 01:04:19] ✅ Final market summary sent.
+[2025-04-24 01:04:19] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 01:29:03] 🔄 Run started
+[2025-04-24 01:29:27] 📰 6 new headlines fetched.
+[2025-04-24 01:29:36] 📤 Global headlines sent.
+[2025-04-24 01:29:39] 📤 Crypto headlines sent.
+[2025-04-24 01:29:41] 📤 Europe headlines sent.
+[2025-04-24 01:29:44] ✅ Final market summary sent.
+[2025-04-24 01:29:44] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 01:33:23] 🔄 Run started
+[2025-04-24 01:33:40] 📰 20 new headlines fetched.
+[2025-04-24 01:33:46] 📤 US headlines sent.
+[2025-04-24 01:33:47] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 01:34:32] 🔄 Run started
+[2025-04-24 01:34:50] 📰 20 new headlines fetched.
+[2025-04-24 01:34:54] 📤 US headlines sent.
+[2025-04-24 01:34:58] 📤 Global headlines sent.
+[2025-04-24 01:34:59] 📤 Crypto headlines sent.
+[2025-04-24 01:35:01] 📤 Europe headlines sent.
+[2025-04-24 01:35:03] ✅ Final market summary sent.
+[2025-04-24 01:35:03] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 01:40:04] 🔄 Run started
+[2025-04-24 01:40:20] ⚠️ No new headlines found.
+[2025-04-24 01:40:25] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 01:45:25] 🔄 Run started
+[2025-04-24 01:45:42] ⚠️ No new headlines found.
+[2025-04-24 01:45:47] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 01:50:47] 🔄 Run started
+[2025-04-24 01:51:05] 📰 3 new headlines fetched.
+[2025-04-24 01:51:12] 📤 Global headlines sent.
+[2025-04-24 01:51:14] 📤 US headlines sent.
+[2025-04-24 01:51:16] ✅ Final market summary sent.
+[2025-04-24 01:51:16] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 01:56:16] 🔄 Run started
+[2025-04-24 01:56:35] ⚠️ No new headlines found.
+[2025-04-24 01:56:40] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 02:01:40] 🔄 Run started
+[2025-04-24 02:02:00] 📰 1 new headlines fetched.
+[2025-04-24 02:02:07] 📤 Global headlines sent.
+[2025-04-24 02:02:09] ✅ Final market summary sent.
+[2025-04-24 02:02:09] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 02:07:09] 🔄 Run started
+[2025-04-24 02:07:27] ⚠️ No new headlines found.
+[2025-04-24 02:07:32] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 02:12:33] 🔄 Run started
+[2025-04-24 02:12:50] ⚠️ No new headlines found.
+[2025-04-24 02:12:55] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 02:17:55] 🔄 Run started
+[2025-04-24 02:18:16] 📰 2 new headlines fetched.
+[2025-04-24 02:18:24] 📤 Global headlines sent.
+[2025-04-24 02:18:27] ✅ Final market summary sent.
+[2025-04-24 02:18:27] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 02:23:27] 🔄 Run started
+[2025-04-24 02:23:44] ⚠️ No new headlines found.
+[2025-04-24 02:23:49] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 02:28:50] 🔄 Run started
+[2025-04-24 02:29:10] ⚠️ No new headlines found.
+[2025-04-24 02:29:15] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 02:34:15] 🔄 Run started
+[2025-04-24 02:34:34] 📰 2 new headlines fetched.
+[2025-04-24 02:34:41] 📤 Global headlines sent.
+[2025-04-24 02:34:43] 📤 US headlines sent.
+[2025-04-24 02:34:45] ✅ Final market summary sent.
+[2025-04-24 02:34:45] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 02:39:45] 🔄 Run started
+[2025-04-24 02:40:04] ⚠️ No new headlines found.
+[2025-04-24 02:40:09] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 02:45:09] 🔄 Run started
+[2025-04-24 02:45:26] ⚠️ No new headlines found.
+[2025-04-24 02:45:31] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 02:50:31] 🔄 Run started
+[2025-04-24 02:50:50] 📰 1 new headlines fetched.
+[2025-04-24 02:50:57] 📤 Global headlines sent.
+[2025-04-24 02:51:00] ✅ Final market summary sent.
+[2025-04-24 02:51:00] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 02:56:00] 🔄 Run started
+[2025-04-24 02:56:20] ⚠️ No new headlines found.
+[2025-04-24 02:56:25] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 03:01:25] 🔄 Run started
+[2025-04-24 03:01:41] ⚠️ No new headlines found.
+[2025-04-24 03:01:46] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 03:06:46] 🔄 Run started
+[2025-04-24 03:06:59] ⚠️ No new headlines found.
+[2025-04-24 03:07:04] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 03:12:05] 🔄 Run started
+[2025-04-24 03:12:21] ⚠️ No new headlines found.
+[2025-04-24 03:12:26] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 03:17:26] 🔄 Run started
+[2025-04-24 03:17:43] 📰 7 new headlines fetched.
+[2025-04-24 03:17:52] 📤 Global headlines sent.
+[2025-04-24 03:17:55] ✅ Final market summary sent.
+[2025-04-24 03:17:55] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 03:22:55] 🔄 Run started
+[2025-04-24 03:23:14] ⚠️ No new headlines found.
+[2025-04-24 03:23:19] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 03:28:19] 🔄 Run started
+[2025-04-24 03:28:38] ⚠️ No new headlines found.
+[2025-04-24 03:28:43] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 03:33:44] 🔄 Run started
+[2025-04-24 03:34:05] 📰 3 new headlines fetched.
+[2025-04-24 03:34:12] 📤 Global headlines sent.
+[2025-04-24 03:34:14] 📤 US headlines sent.
+[2025-04-24 03:34:16] ✅ Final market summary sent.
+[2025-04-24 03:34:16] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 03:39:16] 🔄 Run started
+[2025-04-24 03:39:34] ⚠️ No new headlines found.
+[2025-04-24 03:39:39] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 03:44:39] 🔄 Run started
+[2025-04-24 03:45:00] ⚠️ No new headlines found.
+[2025-04-24 03:45:05] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 03:50:05] 🔄 Run started
+[2025-04-24 03:50:23] ⚠️ No new headlines found.
+[2025-04-24 03:50:28] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 03:55:28] 🔄 Run started
+[2025-04-24 03:55:48] 📰 2 new headlines fetched.
+[2025-04-24 03:55:55] 📤 Global headlines sent.
+[2025-04-24 03:55:58] ✅ Final market summary sent.
+[2025-04-24 03:55:58] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 04:00:58] 🔄 Run started
+[2025-04-24 04:01:15] ⚠️ No new headlines found.
+[2025-04-24 04:01:20] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 04:06:21] 🔄 Run started
+[2025-04-24 04:06:37] ⚠️ No new headlines found.
+[2025-04-24 04:06:42] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 04:11:42] 🔄 Run started
+[2025-04-24 04:12:01] 📰 2 new headlines fetched.
+[2025-04-24 04:12:08] 📤 Global headlines sent.
+[2025-04-24 04:12:11] ✅ Final market summary sent.
+[2025-04-24 04:12:11] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 04:17:12] 🔄 Run started
+[2025-04-24 04:17:28] ⚠️ No new headlines found.
+[2025-04-24 04:17:33] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 04:22:33] 🔄 Run started
+[2025-04-24 04:22:52] 📰 2 new headlines fetched.
+[2025-04-24 04:22:59] 📤 US headlines sent.
+[2025-04-24 04:23:02] ✅ Final market summary sent.
+[2025-04-24 04:23:02] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 04:28:02] 🔄 Run started
+[2025-04-24 04:28:19] ⚠️ No new headlines found.
+[2025-04-24 04:28:24] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 04:33:24] 🔄 Run started
+[2025-04-24 04:33:40] ⚠️ No new headlines found.
+[2025-04-24 04:33:45] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 04:38:45] 🔄 Run started
+[2025-04-24 04:39:02] ⚠️ No new headlines found.
+[2025-04-24 04:39:07] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 04:44:08] 🔄 Run started
+[2025-04-24 04:44:27] ⚠️ No new headlines found.
+[2025-04-24 04:44:32] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 04:49:32] 🔄 Run started
+[2025-04-24 04:49:52] ⚠️ No new headlines found.
+[2025-04-24 04:49:57] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 04:54:57] 🔄 Run started
+[2025-04-24 04:55:15] ⚠️ No new headlines found.
+[2025-04-24 04:55:20] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 05:00:20] 🔄 Run started
+[2025-04-24 05:00:38] 📰 1 new headlines fetched.
+[2025-04-24 05:00:48] 📤 US headlines sent.
+[2025-04-24 05:00:51] ✅ Final market summary sent.
+[2025-04-24 05:00:51] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 05:05:51] 🔄 Run started
+[2025-04-24 05:06:11] ⚠️ No new headlines found.
+[2025-04-24 05:06:16] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 05:11:16] 🔄 Run started
+[2025-04-24 05:11:35] ⚠️ No new headlines found.
+[2025-04-24 05:11:40] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 05:16:41] 🔄 Run started
+[2025-04-24 05:17:01] ⚠️ No new headlines found.
+[2025-04-24 05:17:06] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 05:22:07] 🔄 Run started
+[2025-04-24 05:22:25] ⚠️ No new headlines found.
+[2025-04-24 05:22:30] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 05:27:30] 🔄 Run started
+[2025-04-24 05:27:49] ⚠️ No new headlines found.
+[2025-04-24 05:27:54] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 05:32:55] 🔄 Run started
+[2025-04-24 05:33:16] ⚠️ No new headlines found.
+[2025-04-24 05:33:21] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 05:38:22] 🔄 Run started
+[2025-04-24 05:38:41] ⚠️ No new headlines found.
+[2025-04-24 05:38:46] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 05:43:46] 🔄 Run started
+[2025-04-24 05:44:07] ⚠️ No new headlines found.
+[2025-04-24 05:44:12] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 05:49:12] 🔄 Run started
+[2025-04-24 05:49:29] 📰 2 new headlines fetched.
+[2025-04-24 05:49:36] 📤 Asia headlines sent.
+[2025-04-24 05:49:38] 📤 US headlines sent.
+[2025-04-24 05:49:41] ✅ Final market summary sent.
+[2025-04-24 05:49:41] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 05:54:41] 🔄 Run started
+[2025-04-24 05:54:55] ⚠️ No new headlines found.
+[2025-04-24 05:55:00] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 06:00:01] 🔄 Run started
+[2025-04-24 06:00:18] ⚠️ No new headlines found.
+[2025-04-24 06:00:23] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 06:05:23] 🔄 Run started
+[2025-04-24 06:05:42] 📰 2 new headlines fetched.
+[2025-04-24 06:05:49] 📤 Crypto headlines sent.
+[2025-04-24 06:05:51] ✅ Final market summary sent.
+[2025-04-24 06:05:51] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 06:10:51] 🔄 Run started
+[2025-04-24 06:11:11] 📰 1 new headlines fetched.
+[2025-04-24 06:11:17] 📤 US headlines sent.
+[2025-04-24 06:11:21] ✅ Final market summary sent.
+[2025-04-24 06:11:21] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 06:16:21] 🔄 Run started
+[2025-04-24 06:16:38] 📰 1 new headlines fetched.
+[2025-04-24 06:16:44] 📤 US headlines sent.
+[2025-04-24 06:16:47] ✅ Final market summary sent.
+[2025-04-24 06:16:47] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 06:21:48] 🔄 Run started
+[2025-04-24 06:22:06] ⚠️ No new headlines found.
+[2025-04-24 06:22:11] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 06:27:11] 🔄 Run started
+[2025-04-24 06:27:25] ⚠️ No new headlines found.
+[2025-04-24 06:27:30] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 06:32:31] 🔄 Run started
+[2025-04-24 06:32:50] ⚠️ No new headlines found.
+[2025-04-24 06:32:55] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 06:37:55] 🔄 Run started
+[2025-04-24 06:38:13] 📰 2 new headlines fetched.
+[2025-04-24 06:38:19] 📤 US headlines sent.
+[2025-04-24 06:38:21] 📤 Global headlines sent.
+[2025-04-24 06:38:23] ✅ Final market summary sent.
+[2025-04-24 06:38:23] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 06:43:23] 🔄 Run started
+[2025-04-24 06:43:40] ⚠️ No new headlines found.
+[2025-04-24 06:43:45] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 06:48:46] 🔄 Run started
+[2025-04-24 06:49:00] ⚠️ No new headlines found.
+[2025-04-24 06:49:05] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 06:54:05] 🔄 Run started
+[2025-04-24 06:54:25] ⚠️ No new headlines found.
+[2025-04-24 06:54:30] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 06:59:30] 🔄 Run started
+[2025-04-24 06:59:46] ⚠️ No new headlines found.
+[2025-04-24 06:59:51] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 07:04:51] 🔄 Run started
+[2025-04-24 07:05:05] ⚠️ No new headlines found.
+[2025-04-24 07:05:10] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 07:10:11] 🔄 Run started
+[2025-04-24 07:10:27] ⚠️ No new headlines found.
+[2025-04-24 07:10:32] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 07:15:32] 🔄 Run started
+[2025-04-24 07:15:50] 📰 1 new headlines fetched.
+[2025-04-24 07:15:58] 📤 US headlines sent.
+[2025-04-24 07:16:01] ✅ Final market summary sent.
+[2025-04-24 07:16:01] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 07:21:01] 🔄 Run started
+[2025-04-24 07:21:20] ⚠️ No new headlines found.
+[2025-04-24 07:21:25] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 07:26:25] 🔄 Run started
+[2025-04-24 07:26:44] ⚠️ No new headlines found.
+[2025-04-24 07:26:49] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 07:31:49] 🔄 Run started
+[2025-04-24 07:32:09] 📰 1 new headlines fetched.
+[2025-04-24 07:32:16] 📤 Europe headlines sent.
+[2025-04-24 07:32:18] ✅ Final market summary sent.
+[2025-04-24 07:32:18] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 07:37:18] 🔄 Run started
+[2025-04-24 07:37:36] ⚠️ No new headlines found.
+[2025-04-24 07:37:41] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 07:42:42] 🔄 Run started
+[2025-04-24 07:43:00] ⚠️ No new headlines found.
+[2025-04-24 07:43:05] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 07:48:06] 🔄 Run started
+[2025-04-24 07:48:26] 📰 3 new headlines fetched.
+[2025-04-24 07:48:33] 📤 US headlines sent.
+[2025-04-24 07:48:35] 📤 Global headlines sent.
+[2025-04-24 07:48:37] ✅ Final market summary sent.
+[2025-04-24 07:48:37] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 07:53:37] 🔄 Run started
+[2025-04-24 07:53:54] ⚠️ No new headlines found.
+[2025-04-24 07:53:59] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 07:58:59] 🔄 Run started
+[2025-04-24 07:59:14] 📰 4 new headlines fetched.
+[2025-04-24 07:59:22] 📤 Global headlines sent.
+[2025-04-24 07:59:24] 📤 Europe headlines sent.
+[2025-04-24 07:59:26] ✅ Final market summary sent.
+[2025-04-24 07:59:26] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 08:04:26] 🔄 Run started
+[2025-04-24 08:04:43] ⚠️ No new headlines found.
+[2025-04-24 08:04:48] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 08:09:48] 🔄 Run started
+[2025-04-24 08:10:09] ⚠️ No new headlines found.
+[2025-04-24 08:10:14] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 08:15:15] 🔄 Run started
+[2025-04-24 08:15:32] 📰 8 new headlines fetched.
+[2025-04-24 08:15:41] 📤 Global headlines sent.
+[2025-04-24 08:15:43] 📤 US headlines sent.
+[2025-04-24 08:15:47] ✅ Final market summary sent.
+[2025-04-24 08:15:47] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 08:20:47] 🔄 Run started
+[2025-04-24 08:21:05] ⚠️ No new headlines found.
+[2025-04-24 08:21:10] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 08:26:11] 🔄 Run started
+[2025-04-24 08:26:28] 📰 8 new headlines fetched.
+[2025-04-24 08:26:35] 📤 US headlines sent.
+[2025-04-24 08:26:39] 📤 Global headlines sent.
+[2025-04-24 08:26:41] ✅ Final market summary sent.
+[2025-04-24 08:26:41] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 08:31:41] 🔄 Run started
+[2025-04-24 08:31:58] ⚠️ No new headlines found.
+[2025-04-24 08:32:03] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 08:37:03] 🔄 Run started
+[2025-04-24 08:37:21] ⚠️ No new headlines found.
+[2025-04-24 08:37:26] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 08:42:26] 🔄 Run started
+[2025-04-24 08:42:42] ⚠️ No new headlines found.
+[2025-04-24 08:42:47] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 08:47:47] 🔄 Run started
+[2025-04-24 08:48:06] 📰 1 new headlines fetched.
+[2025-04-24 08:48:13] 📤 Global headlines sent.
+[2025-04-24 08:48:16] ✅ Final market summary sent.
+[2025-04-24 08:48:16] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 08:53:16] 🔄 Run started
+[2025-04-24 08:53:33] ⚠️ No new headlines found.
+[2025-04-24 08:53:38] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 08:58:39] 🔄 Run started
+[2025-04-24 08:58:57] ⚠️ No new headlines found.
+[2025-04-24 08:59:02] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 09:04:02] 🔄 Run started
+[2025-04-24 09:04:20] 📰 6 new headlines fetched.
+[2025-04-24 09:04:28] 📤 Global headlines sent.
+[2025-04-24 09:04:31] 📤 US headlines sent.
+[2025-04-24 09:04:33] ✅ Final market summary sent.
+[2025-04-24 09:04:33] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 09:09:33] 🔄 Run started
+[2025-04-24 09:09:52] ⚠️ No new headlines found.
+[2025-04-24 09:09:57] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 09:14:57] 🔄 Run started
+[2025-04-24 09:15:14] 📰 8 new headlines fetched.
+[2025-04-24 09:15:22] 📤 Global headlines sent.
+[2025-04-24 09:15:25] 📤 US headlines sent.
+[2025-04-24 09:15:27] ✅ Final market summary sent.
+[2025-04-24 09:15:27] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 09:20:27] 🔄 Run started
+[2025-04-24 09:20:48] ⚠️ No new headlines found.
+[2025-04-24 09:20:53] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 09:25:53] 🔄 Run started
+[2025-04-24 09:26:13] ⚠️ No new headlines found.
+[2025-04-24 09:26:18] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 09:31:18] 🔄 Run started
+[2025-04-24 09:31:37] 📰 3 new headlines fetched.
+[2025-04-24 09:31:45] 📤 Global headlines sent.
+[2025-04-24 09:31:48] ✅ Final market summary sent.
+[2025-04-24 09:31:48] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 09:36:48] 🔄 Run started
+[2025-04-24 09:37:05] ⚠️ No new headlines found.
+[2025-04-24 09:37:10] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 09:42:10] 🔄 Run started
+[2025-04-24 09:42:31] 📰 8 new headlines fetched.
+[2025-04-24 09:42:37] 📤 Asia headlines sent.
+[2025-04-24 09:42:40] 📤 Crypto headlines sent.
+[2025-04-24 09:42:42] 📤 US headlines sent.
+[2025-04-24 09:42:44] 📤 Global headlines sent.
+[2025-04-24 09:42:46] ✅ Final market summary sent.
+[2025-04-24 09:42:46] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 09:47:46] 🔄 Run started
+[2025-04-24 09:48:06] ⚠️ No new headlines found.
+[2025-04-24 09:48:11] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 09:53:11] 🔄 Run started
+[2025-04-24 09:53:29] 📰 3 new headlines fetched.
+[2025-04-24 09:53:36] 📤 US headlines sent.
+[2025-04-24 09:53:37] 📤 Europe headlines sent.
+[2025-04-24 09:53:39] ✅ Final market summary sent.
+[2025-04-24 09:53:39] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 09:58:39] 🔄 Run started
+[2025-04-24 09:58:53] ⚠️ No new headlines found.
+[2025-04-24 09:58:58] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 10:03:59] 🔄 Run started
+[2025-04-24 10:04:16] ⚠️ No new headlines found.
+[2025-04-24 10:04:21] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 10:09:22] 🔄 Run started
+[2025-04-24 10:09:45] 📰 3 new headlines fetched.
+[2025-04-24 10:09:52] 📤 Global headlines sent.
+[2025-04-24 10:09:55] ✅ Final market summary sent.
+[2025-04-24 10:09:55] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 10:14:55] 🔄 Run started
+[2025-04-24 10:15:10] 📰 1 new headlines fetched.
+[2025-04-24 10:15:17] 📤 Europe headlines sent.
+[2025-04-24 10:15:19] ✅ Final market summary sent.
+[2025-04-24 10:15:19] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 10:20:19] 🔄 Run started
+[2025-04-24 10:20:45] ⚠️ No new headlines found.
+[2025-04-24 10:20:50] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 10:25:50] 🔄 Run started
+[2025-04-24 10:26:07] 📰 1 new headlines fetched.
+[2025-04-24 10:26:13] 📤 Global headlines sent.
+[2025-04-24 10:26:17] ✅ Final market summary sent.
+[2025-04-24 10:26:17] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 10:31:17] 🔄 Run started
+[2025-04-24 10:31:36] 📰 13 new headlines fetched.
+[2025-04-24 10:31:42] 📤 Europe headlines sent.
+[2025-04-24 10:31:46] 📤 Global headlines sent.
+[2025-04-24 10:31:49] 📤 US headlines sent.
+[2025-04-24 10:31:51] 📤 Commodities headlines sent.
+[2025-04-24 10:31:52] 📤 Asia headlines sent.
+[2025-04-24 10:31:55] ✅ Final market summary sent.
+[2025-04-24 10:31:55] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 10:36:55] 🔄 Run started
+[2025-04-24 10:37:11] ⚠️ No new headlines found.
+[2025-04-24 10:37:16] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 10:42:17] 🔄 Run started
+[2025-04-24 10:42:37] 📰 4 new headlines fetched.
+[2025-04-24 10:42:44] 📤 Europe headlines sent.
+[2025-04-24 10:42:47] 📤 Global headlines sent.
+[2025-04-24 10:42:49] ✅ Final market summary sent.
+[2025-04-24 10:42:49] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 10:47:50] 🔄 Run started
+[2025-04-24 10:48:07] ⚠️ No new headlines found.
+[2025-04-24 10:48:12] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 10:53:12] 🔄 Run started
+[2025-04-24 10:53:28] ⚠️ No new headlines found.
+[2025-04-24 10:53:33] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 10:58:34] 🔄 Run started
+[2025-04-24 10:58:52] 📰 5 new headlines fetched.
+[2025-04-24 10:59:00] 📤 US headlines sent.
+[2025-04-24 10:59:02] 📤 Global headlines sent.
+[2025-04-24 10:59:05] 📤 Europe headlines sent.
+[2025-04-24 10:59:07] ✅ Final market summary sent.
+[2025-04-24 10:59:07] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 11:04:07] 🔄 Run started
+[2025-04-24 11:04:21] ⚠️ No new headlines found.
+[2025-04-24 11:04:26] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 11:09:27] 🔄 Run started
+[2025-04-24 11:09:44] ⚠️ No new headlines found.
+[2025-04-24 11:09:49] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 11:14:49] 🔄 Run started
+[2025-04-24 11:15:09] ⚠️ No new headlines found.
+[2025-04-24 11:15:14] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 11:20:14] 🔄 Run started
+[2025-04-24 11:20:33] 📰 12 new headlines fetched.
+[2025-04-24 11:20:41] 📤 US headlines sent.
+[2025-04-24 11:20:44] 📤 Global headlines sent.
+[2025-04-24 11:20:45] 📤 Commodities headlines sent.
+[2025-04-24 11:20:48] ✅ Final market summary sent.
+[2025-04-24 11:20:48] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 11:25:48] 🔄 Run started
+[2025-04-24 11:26:07] ⚠️ No new headlines found.
+[2025-04-24 11:26:12] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 11:31:12] 🔄 Run started
+[2025-04-24 11:31:30] 📰 16 new headlines fetched.
+[2025-04-24 11:31:37] 📤 US headlines sent.
+[2025-04-24 11:31:43] 📤 Europe headlines sent.
+[2025-04-24 11:31:46] 📤 Asia headlines sent.
+[2025-04-24 11:31:48] 📤 Global headlines sent.
+[2025-04-24 11:31:51] ✅ Final market summary sent.
+[2025-04-24 11:31:51] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 11:36:51] 🔄 Run started
+[2025-04-24 11:37:10] ⚠️ No new headlines found.
+[2025-04-24 11:37:15] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 11:42:15] 🔄 Run started
+[2025-04-24 11:42:33] ⚠️ No new headlines found.
+[2025-04-24 11:42:38] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 11:47:38] 🔄 Run started
+[2025-04-24 11:47:54] 📰 18 new headlines fetched.
+[2025-04-24 11:48:03] 📤 Global headlines sent.
+[2025-04-24 11:48:07] 📤 US headlines sent.
+[2025-04-24 11:48:10] ✅ Final market summary sent.
+[2025-04-24 11:48:10] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 11:53:10] 🔄 Run started
+[2025-04-24 11:53:29] ⚠️ No new headlines found.
+[2025-04-24 11:53:34] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 11:58:35] 🔄 Run started
+[2025-04-24 12:00:00] 📰 8 new headlines fetched.
+[2025-04-24 12:00:08] 📤 Global headlines sent.
+[2025-04-24 12:00:11] 📤 US headlines sent.
+[2025-04-24 12:00:13] ✅ Final market summary sent.
+[2025-04-24 12:00:13] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 12:05:13] 🔄 Run started
+[2025-04-24 12:05:28] ⚠️ No new headlines found.
+[2025-04-24 12:05:33] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 12:10:33] 🔄 Run started
+[2025-04-24 12:10:51] 📰 18 new headlines fetched.
+[2025-04-24 12:10:59] 📤 Global headlines sent.
+[2025-04-24 12:11:01] 📤 US headlines sent.
+[2025-04-24 12:11:02] 📤 Europe headlines sent.
+[2025-04-24 12:11:04] ✅ Final market summary sent.
+[2025-04-24 12:11:04] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 12:16:04] 🔄 Run started
+[2025-04-24 12:16:26] ⚠️ No new headlines found.
+[2025-04-24 12:16:31] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 12:21:31] 🔄 Run started
+[2025-04-24 12:21:48] 📰 13 new headlines fetched.
+[2025-04-24 12:21:56] 📤 Global headlines sent.
+[2025-04-24 12:21:57] 📤 Europe headlines sent.
+[2025-04-24 12:21:59] 📤 US headlines sent.
+[2025-04-24 12:22:03] ✅ Final market summary sent.
+[2025-04-24 12:22:03] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 12:27:03] 🔄 Run started
+[2025-04-24 12:27:22] ⚠️ No new headlines found.
+[2025-04-24 12:27:27] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 12:32:27] 🔄 Run started
+[2025-04-24 12:32:48] ⚠️ No new headlines found.
+[2025-04-24 12:32:53] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 12:37:53] 🔄 Run started
+[2025-04-24 12:38:13] 📰 6 new headlines fetched.
+[2025-04-24 12:38:22] 📤 Global headlines sent.
+[2025-04-24 12:38:24] 📤 Asia headlines sent.
+[2025-04-24 12:38:26] ✅ Final market summary sent.
+[2025-04-24 12:38:26] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 12:43:26] 🔄 Run started
+[2025-04-24 12:43:43] ⚠️ No new headlines found.
+[2025-04-24 12:43:48] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 12:48:48] 🔄 Run started
+[2025-04-24 12:49:04] 📰 12 new headlines fetched.
+[2025-04-24 12:49:12] 📤 US headlines sent.
+[2025-04-24 12:49:14] 📤 Commodities headlines sent.
+[2025-04-24 12:49:17] 📤 Global headlines sent.
+[2025-04-24 12:49:19] 📤 Europe headlines sent.
+[2025-04-24 12:49:22] ✅ Final market summary sent.
+[2025-04-24 12:49:22] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 12:54:22] 🔄 Run started
+[2025-04-24 12:54:41] ⚠️ No new headlines found.
+[2025-04-24 12:54:46] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 12:59:46] 🔄 Run started
+[2025-04-24 13:00:07] ⚠️ No new headlines found.
+[2025-04-24 13:00:12] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 13:05:12] 🔄 Run started
+[2025-04-24 13:05:28] 📰 6 new headlines fetched.
+[2025-04-24 13:05:35] 📤 US headlines sent.
+[2025-04-24 13:05:36] 📤 Commodities headlines sent.
+[2025-04-24 13:05:38] 📤 Europe headlines sent.
+[2025-04-24 13:05:39] 📤 Crypto headlines sent.
+[2025-04-24 13:05:40] 📤 Global headlines sent.
+[2025-04-24 13:05:43] ✅ Final market summary sent.
+[2025-04-24 13:05:43] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 13:10:43] 🔄 Run started
+[2025-04-24 13:11:01] ⚠️ No new headlines found.
+[2025-04-24 13:11:06] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 13:16:07] 🔄 Run started
+[2025-04-24 13:16:23] ❌ Error during run:
+object has no attribute 'link'
+[2025-04-24 13:16:28] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 13:21:28] 🔄 Run started
+[2025-04-24 13:21:47] 📰 20 new headlines fetched.
+[2025-04-24 13:21:55] 📤 Global headlines sent.
+[2025-04-24 13:21:57] 📤 Commodities headlines sent.
+[2025-04-24 13:21:59] 📤 US headlines sent.
+[2025-04-24 13:22:01] 📤 Europe headlines sent.
+[2025-04-24 13:22:04] ✅ Final market summary sent.
+[2025-04-24 13:22:04] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 13:27:04] 🔄 Run started
+[2025-04-24 13:27:20] ⚠️ No new headlines found.
+[2025-04-24 13:27:25] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 13:32:25] 🔄 Run started
+[2025-04-24 13:32:45] 📰 20 new headlines fetched.
+[2025-04-24 13:32:52] 📤 Global headlines sent.
+[2025-04-24 13:32:56] 📤 US headlines sent.
+[2025-04-24 13:32:58] ✅ Final market summary sent.
+[2025-04-24 13:32:58] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 13:37:58] 🔄 Run started
+[2025-04-24 13:38:17] 📰 1 new headlines fetched.
+[2025-04-24 13:38:23] 📤 Global headlines sent.
+[2025-04-24 13:38:26] ✅ Final market summary sent.
+[2025-04-24 13:38:26] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 13:43:26] 🔄 Run started
+[2025-04-24 13:43:44] 📰 18 new headlines fetched.
+[2025-04-24 13:43:52] 📤 Global headlines sent.
+[2025-04-24 13:43:55] 📤 Europe headlines sent.
+[2025-04-24 13:43:57] 📤 Commodities headlines sent.
+[2025-04-24 13:43:59] 📤 US headlines sent.
+[2025-04-24 13:44:02] ✅ Final market summary sent.
+[2025-04-24 13:44:02] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 13:49:02] 🔄 Run started
+[2025-04-24 13:49:21] ⚠️ No new headlines found.
+[2025-04-24 13:49:26] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 13:54:26] 🔄 Run started
+[2025-04-24 13:54:43] 📰 10 new headlines fetched.
+[2025-04-24 13:54:51] 📤 Global headlines sent.
+[2025-04-24 13:54:54] ✅ Final market summary sent.
+[2025-04-24 13:54:54] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 13:59:55] 🔄 Run started
+[2025-04-24 14:00:14] 📰 7 new headlines fetched.
+[2025-04-24 14:00:22] 📤 Global headlines sent.
+[2025-04-24 14:00:23] 📤 Commodities headlines sent.
+[2025-04-24 14:00:27] 📤 US headlines sent.
+[2025-04-24 14:00:30] ✅ Final market summary sent.
+[2025-04-24 14:00:30] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 14:05:30] 🔄 Run started
+[2025-04-24 14:05:49] ⚠️ No new headlines found.
+[2025-04-24 14:05:54] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 14:10:54] 🔄 Run started
+[2025-04-24 14:11:12] 📰 20 new headlines fetched.
+[2025-04-24 14:11:20] 📤 Global headlines sent.
+[2025-04-24 14:11:22] 📤 Europe headlines sent.
+[2025-04-24 14:11:25] ✅ Final market summary sent.
+[2025-04-24 14:11:25] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 14:16:25] 🔄 Run started
+[2025-04-24 14:16:42] ⚠️ No new headlines found.
+[2025-04-24 14:16:47] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 14:21:47] 🔄 Run started
+[2025-04-24 14:23:03] 📰 14 new headlines fetched.
+[2025-04-24 14:23:10] 📤 US headlines sent.
+[2025-04-24 14:23:14] 📤 Global headlines sent.
+[2025-04-24 14:23:16] 📤 Commodities headlines sent.
+[2025-04-24 14:23:18] ✅ Final market summary sent.
+[2025-04-24 14:23:18] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 14:28:19] 🔄 Run started
+[2025-04-24 14:28:37] 📰 9 new headlines fetched.
+[2025-04-24 14:28:45] 📤 Global headlines sent.
+[2025-04-24 14:28:48] 📤 US headlines sent.
+[2025-04-24 14:28:50] ✅ Final market summary sent.
+[2025-04-24 14:28:50] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 14:33:50] 🔄 Run started
+[2025-04-24 14:34:11] ⚠️ No new headlines found.
+[2025-04-24 14:34:16] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 14:39:16] 🔄 Run started
+[2025-04-24 14:39:32] 📰 20 new headlines fetched.
+[2025-04-24 14:39:39] 📤 US headlines sent.
+[2025-04-24 14:39:43] 📤 Global headlines sent.
+[2025-04-24 14:39:44] 📤 Crypto headlines sent.
+[2025-04-24 14:39:47] ✅ Final market summary sent.
+[2025-04-24 14:39:47] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 14:44:47] 🔄 Run started
+[2025-04-24 14:45:07] ⚠️ No new headlines found.
+[2025-04-24 14:45:12] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 14:50:12] 🔄 Run started
+[2025-04-24 14:50:30] 📰 5 new headlines fetched.
+[2025-04-24 14:50:38] 📤 Global headlines sent.
+[2025-04-24 14:50:40] 📤 Europe headlines sent.
+[2025-04-24 14:50:46] ✅ Final market summary sent.
+[2025-04-24 14:50:46] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 14:55:46] 🔄 Run started
+[2025-04-24 14:56:03] 📰 20 new headlines fetched.
+[2025-04-24 14:56:10] 📤 Europe headlines sent.
+[2025-04-24 14:56:14] 📤 Global headlines sent.
+[2025-04-24 14:56:15] 📤 Asia headlines sent.
+[2025-04-24 14:56:17] 📤 US headlines sent.
+[2025-04-24 14:56:20] ✅ Final market summary sent.
+[2025-04-24 14:56:20] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 15:01:20] 🔄 Run started
+[2025-04-24 15:01:38] 📰 14 new headlines fetched.
+[2025-04-24 15:01:46] 📤 Global headlines sent.
+[2025-04-24 15:01:49] 📤 Europe headlines sent.
+[2025-04-24 15:01:52] 📤 US headlines sent.
+[2025-04-24 15:01:54] ✅ Final market summary sent.
+[2025-04-24 15:01:54] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 15:06:55] 🔄 Run started
+[2025-04-24 15:07:13] 📰 1 new headlines fetched.
+[2025-04-24 15:07:20] 📤 Global headlines sent.
+[2025-04-24 15:07:23] ✅ Final market summary sent.
+[2025-04-24 15:07:23] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 15:12:23] 🔄 Run started
+[2025-04-24 15:12:42] ⚠️ No new headlines found.
+[2025-04-24 15:12:47] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 15:17:47] 🔄 Run started
+[2025-04-24 15:18:07] 📰 20 new headlines fetched.
+[2025-04-24 15:18:15] 📤 Global headlines sent.
+[2025-04-24 15:18:17] 📤 Europe headlines sent.
+[2025-04-24 15:18:19] 📤 US headlines sent.
+[2025-04-24 15:18:21] 📤 Commodities headlines sent.
+[2025-04-24 15:18:24] ✅ Final market summary sent.
+[2025-04-24 15:18:24] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 15:23:24] 🔄 Run started
+[2025-04-24 15:23:42] ⚠️ No new headlines found.
+[2025-04-24 15:23:47] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 15:28:47] 🔄 Run started
+[2025-04-24 15:29:04] ⚠️ No new headlines found.
+[2025-04-24 15:29:09] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 15:34:09] 🔄 Run started
+[2025-04-24 15:34:26] 📰 10 new headlines fetched.
+[2025-04-24 15:34:37] 📤 Global headlines sent.
+[2025-04-24 15:34:40] ✅ Final market summary sent.
+[2025-04-24 15:34:40] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 15:39:40] 🔄 Run started
+[2025-04-24 15:39:56] 📰 3 new headlines fetched.
+[2025-04-24 15:40:03] 📤 Global headlines sent.
+[2025-04-24 15:40:06] 📤 Commodities headlines sent.
+[2025-04-24 15:40:09] ✅ Final market summary sent.
+[2025-04-24 15:40:09] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 15:45:09] 🔄 Run started
+[2025-04-24 15:45:25] 📰 9 new headlines fetched.
+[2025-04-24 15:45:35] 📤 Global headlines sent.
+[2025-04-24 15:45:37] 📤 US headlines sent.
+[2025-04-24 15:45:39] ✅ Final market summary sent.
+[2025-04-24 15:45:39] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 15:50:39] 🔄 Run started
+[2025-04-24 15:50:58] ⚠️ No new headlines found.
+[2025-04-24 15:51:03] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 15:56:04] 🔄 Run started
+[2025-04-24 15:56:22] ⚠️ No new headlines found.
+[2025-04-24 15:56:27] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 16:01:28] 🔄 Run started
+[2025-04-24 16:01:44] 📰 9 new headlines fetched.
+[2025-04-24 16:01:53] 📤 Global headlines sent.
+[2025-04-24 16:01:57] 📤 US headlines sent.
+[2025-04-24 16:02:00] ✅ Final market summary sent.
+[2025-04-24 16:02:00] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 16:07:00] 🔄 Run started
+[2025-04-24 16:07:15] ⚠️ No new headlines found.
+[2025-04-24 16:07:20] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 16:12:20] 🔄 Run started
+[2025-04-24 16:12:37] 📰 8 new headlines fetched.
+[2025-04-24 16:12:48] 📤 Global headlines sent.
+[2025-04-24 16:12:52] ✅ Final market summary sent.
+[2025-04-24 16:12:52] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 16:17:52] 🔄 Run started
+[2025-04-24 16:18:10] 📰 5 new headlines fetched.
+[2025-04-24 16:18:18] 📤 Global headlines sent.
+[2025-04-24 16:18:20] 📤 US headlines sent.
+[2025-04-24 16:18:22] 📤 Europe headlines sent.
+[2025-04-24 16:18:26] ✅ Final market summary sent.
+[2025-04-24 16:18:26] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 16:23:26] 🔄 Run started
+[2025-04-24 16:23:43] ⚠️ No new headlines found.
+[2025-04-24 16:23:48] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 16:28:49] 🔄 Run started
+[2025-04-24 16:29:06] 📰 16 new headlines fetched.
+[2025-04-24 16:29:13] 📤 US headlines sent.
+[2025-04-24 16:29:16] 📤 Global headlines sent.
+[2025-04-24 16:29:18] 📤 Crypto headlines sent.
+[2025-04-24 16:29:19] 📤 Europe headlines sent.
+[2025-04-24 16:29:22] ✅ Final market summary sent.
+[2025-04-24 16:29:22] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 16:34:22] 🔄 Run started
+[2025-04-24 16:34:41] ⚠️ No new headlines found.
+[2025-04-24 16:34:46] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 16:39:47] 🔄 Run started
+[2025-04-24 16:40:06] ⚠️ No new headlines found.
+[2025-04-24 16:40:11] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 16:45:12] 🔄 Run started
+[2025-04-24 16:45:26] 📰 8 new headlines fetched.
+[2025-04-24 16:45:43] 📤 Global headlines sent.
+[2025-04-24 16:45:44] 📤 Asia headlines sent.
+[2025-04-24 16:45:47] ✅ Final market summary sent.
+[2025-04-24 16:45:47] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 16:50:47] 🔄 Run started
+[2025-04-24 16:51:08] ⚠️ No new headlines found.
+[2025-04-24 16:51:13] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 16:56:14] 🔄 Run started
+[2025-04-24 16:56:31] 📰 15 new headlines fetched.
+[2025-04-24 16:56:38] 📤 Crypto headlines sent.
+[2025-04-24 16:56:42] 📤 US headlines sent.
+[2025-04-24 16:56:45] 📤 Global headlines sent.
+[2025-04-24 16:56:48] ✅ Final market summary sent.
+[2025-04-24 16:56:48] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 17:01:48] 🔄 Run started
+[2025-04-24 17:02:07] 📰 9 new headlines fetched.
+[2025-04-24 17:02:16] 📤 Global headlines sent.
+[2025-04-24 17:02:18] 📤 Europe headlines sent.
+[2025-04-24 17:02:24] ✅ Final market summary sent.
+[2025-04-24 17:02:24] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 17:07:24] 🔄 Run started
+[2025-04-24 17:07:42] 📰 4 new headlines fetched.
+[2025-04-24 17:07:49] 📤 Global headlines sent.
+[2025-04-24 17:07:55] 📤 Crypto headlines sent.
+[2025-04-24 17:07:57] ✅ Final market summary sent.
+[2025-04-24 17:07:57] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 17:12:57] 🔄 Run started
+[2025-04-24 17:13:14] 📰 3 new headlines fetched.
+[2025-04-24 17:13:21] 📤 Global headlines sent.
+[2025-04-24 17:13:25] ✅ Final market summary sent.
+[2025-04-24 17:13:25] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 17:18:25] 🔄 Run started
+[2025-04-24 17:19:02] ⚠️ No new headlines found.
+[2025-04-24 17:19:08] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 17:24:08] 🔄 Run started
+[2025-04-24 17:24:26] 📰 16 new headlines fetched.
+[2025-04-24 17:24:36] 📤 Global headlines sent.
+[2025-04-24 17:24:38] 📤 US headlines sent.
+[2025-04-24 17:24:42] ✅ Final market summary sent.
+[2025-04-24 17:24:42] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 17:29:42] 🔄 Run started
+[2025-04-24 17:30:01] ⚠️ No new headlines found.
+[2025-04-24 17:30:06] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 17:35:06] 🔄 Run started
+[2025-04-24 17:35:24] 📰 11 new headlines fetched.
+[2025-04-24 17:35:33] 📤 Global headlines sent.
+[2025-04-24 17:35:36] 📤 Europe headlines sent.
+[2025-04-24 17:35:39] ✅ Final market summary sent.
+[2025-04-24 17:35:39] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 17:40:39] 🔄 Run started
+[2025-04-24 17:40:56] 📰 6 new headlines fetched.
+[2025-04-24 17:41:05] 📤 Global headlines sent.
+[2025-04-24 17:41:08] 📤 US headlines sent.
+[2025-04-24 17:41:11] ✅ Final market summary sent.
+[2025-04-24 17:41:11] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 17:46:12] 🔄 Run started
+[2025-04-24 17:46:30] ⚠️ No new headlines found.
+[2025-04-24 17:46:35] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 17:51:35] 🔄 Run started
+[2025-04-24 17:51:54] 📰 14 new headlines fetched.
+[2025-04-24 17:52:03] 📤 Global headlines sent.
+[2025-04-24 17:52:06] 📤 Europe headlines sent.
+[2025-04-24 17:52:09] 📤 US headlines sent.
+[2025-04-24 17:52:12] ✅ Final market summary sent.
+[2025-04-24 17:52:12] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 17:57:12] 🔄 Run started
+[2025-04-24 17:57:30] ⚠️ No new headlines found.
+[2025-04-24 17:57:35] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 18:02:35] 🔄 Run started
+[2025-04-24 18:02:54] 📰 7 new headlines fetched.
+[2025-04-24 18:03:04] 📤 Global headlines sent.
+[2025-04-24 18:03:08] 📤 Europe headlines sent.
+[2025-04-24 18:03:11] ✅ Final market summary sent.
+[2025-04-24 18:03:11] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 18:08:11] 🔄 Run started
+[2025-04-24 18:08:29] ⚠️ No new headlines found.
+[2025-04-24 18:08:34] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 18:13:35] 🔄 Run started
+[2025-04-24 18:13:52] ⚠️ No new headlines found.
+[2025-04-24 18:13:57] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 18:18:57] 🔄 Run started
+[2025-04-24 18:19:14] 📰 17 new headlines fetched.
+[2025-04-24 18:19:24] 📤 Global headlines sent.
+[2025-04-24 18:19:26] 📤 US headlines sent.
+[2025-04-24 18:19:28] 📤 Commodities headlines sent.
+[2025-04-24 18:19:31] ✅ Final market summary sent.
+[2025-04-24 18:19:31] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 18:24:31] 🔄 Run started
+[2025-04-24 18:24:49] ⚠️ No new headlines found.
+[2025-04-24 18:24:54] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 18:29:55] 🔄 Run started
+[2025-04-24 18:30:12] 📰 11 new headlines fetched.
+[2025-04-24 18:30:21] 📤 Global headlines sent.
+[2025-04-24 18:30:24] 📤 US headlines sent.
+[2025-04-24 18:30:28] 📤 Commodities headlines sent.
+[2025-04-24 18:30:31] ✅ Final market summary sent.
+[2025-04-24 18:30:31] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 18:35:31] 🔄 Run started
+[2025-04-24 18:35:49] ⚠️ No new headlines found.
+[2025-04-24 18:35:54] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 18:40:54] 🔄 Run started
+[2025-04-24 18:41:24] 📰 7 new headlines fetched.
+[2025-04-24 18:41:34] 📤 Global headlines sent.
+[2025-04-24 18:41:36] 📤 Türkiye headlines sent.
+[2025-04-24 18:41:37] 📤 US headlines sent.
+[2025-04-24 18:41:40] ✅ Final market summary sent.
+[2025-04-24 18:41:40] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 18:46:40] 🔄 Run started
+[2025-04-24 18:46:57] ⚠️ No new headlines found.
+[2025-04-24 18:47:02] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 18:52:03] 🔄 Run started
+[2025-04-24 18:52:20] ⚠️ No new headlines found.
+[2025-04-24 18:52:25] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 18:57:25] 🔄 Run started
+[2025-04-24 18:57:43] 📰 13 new headlines fetched.
+[2025-04-24 18:57:52] 📤 US headlines sent.
+[2025-04-24 18:57:55] 📤 Europe headlines sent.
+[2025-04-24 18:57:59] 📤 Global headlines sent.
+[2025-04-24 18:58:02] ✅ Final market summary sent.
+[2025-04-24 18:58:02] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 19:03:02] 🔄 Run started
+[2025-04-24 19:03:34] ⚠️ No new headlines found.
+[2025-04-24 19:03:39] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 19:08:39] 🔄 Run started
+[2025-04-24 19:09:03] 📰 4 new headlines fetched.
+[2025-04-24 19:09:10] 📤 Europe headlines sent.
+[2025-04-24 19:09:14] 📤 Global headlines sent.
+[2025-04-24 19:09:17] ✅ Final market summary sent.
+[2025-04-24 19:09:17] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 19:14:17] 🔄 Run started
+[2025-04-24 19:14:42] 📰 9 new headlines fetched.
+[2025-04-24 19:14:50] 📤 Global headlines sent.
+[2025-04-24 19:14:53] 📤 Europe headlines sent.
+[2025-04-24 19:14:58] ✅ Final market summary sent.
+[2025-04-24 19:14:58] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 19:19:58] 🔄 Run started
+[2025-04-24 19:20:22] ⚠️ No new headlines found.
+[2025-04-24 19:20:27] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 19:25:27] 🔄 Run started
+[2025-04-24 19:25:45] 📰 8 new headlines fetched.
+[2025-04-24 19:25:54] 📤 US headlines sent.
+[2025-04-24 19:25:57] 📤 Global headlines sent.
+[2025-04-24 19:25:59] 📤 Europe headlines sent.
+[2025-04-24 19:26:01] ✅ Final market summary sent.
+[2025-04-24 19:26:01] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 19:31:01] 🔄 Run started
+[2025-04-24 19:31:17] ⚠️ No new headlines found.
+[2025-04-24 19:31:22] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 19:36:22] 🔄 Run started
+[2025-04-24 19:36:42] 📰 8 new headlines fetched.
+[2025-04-24 19:36:49] 📤 Global headlines sent.
+[2025-04-24 19:36:53] 📤 US headlines sent.
+[2025-04-24 19:36:55] 📤 Europe headlines sent.
+[2025-04-24 19:36:59] ✅ Final market summary sent.
+[2025-04-24 19:36:59] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 19:41:59] 🔄 Run started
+[2025-04-24 19:42:14] ⚠️ No new headlines found.
+[2025-04-24 19:42:19] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 19:47:19] 🔄 Run started
+[2025-04-24 19:47:39] ⚠️ No new headlines found.
+[2025-04-24 19:47:44] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 19:52:44] 🔄 Run started
+[2025-04-24 19:53:00] 📰 5 new headlines fetched.
+[2025-04-24 19:53:08] 📤 Global headlines sent.
+[2025-04-24 19:53:10] 📤 Europe headlines sent.
+[2025-04-24 19:53:12] 📤 US headlines sent.
+[2025-04-24 19:53:15] ✅ Final market summary sent.
+[2025-04-24 19:53:15] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 19:58:15] 🔄 Run started
+[2025-04-24 19:58:34] ⚠️ No new headlines found.
+[2025-04-24 19:58:39] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 20:03:39] 🔄 Run started
+[2025-04-24 20:03:55] 📰 7 new headlines fetched.
+[2025-04-24 20:04:03] 📤 Europe headlines sent.
+[2025-04-24 20:04:05] 📤 Global headlines sent.
+[2025-04-24 20:04:08] 📤 US headlines sent.
+[2025-04-24 20:04:10] ✅ Final market summary sent.
+[2025-04-24 20:04:10] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 20:09:10] 🔄 Run started
+[2025-04-24 20:09:29] ⚠️ No new headlines found.
+[2025-04-24 20:09:34] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 20:14:35] 🔄 Run started
+[2025-04-24 20:14:54] ⚠️ No new headlines found.
+[2025-04-24 20:14:59] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 20:19:59] 🔄 Run started
+[2025-04-24 20:20:16] 📰 5 new headlines fetched.
+[2025-04-24 20:20:24] 📤 Global headlines sent.
+[2025-04-24 20:20:27] 📤 US headlines sent.
+[2025-04-24 20:20:30] ✅ Final market summary sent.
+[2025-04-24 20:20:30] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 20:25:30] 🔄 Run started
+[2025-04-24 20:25:47] ⚠️ No new headlines found.
+[2025-04-24 20:25:52] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 20:30:53] 🔄 Run started
+[2025-04-24 20:31:11] 📰 2 new headlines fetched.
+[2025-04-24 20:31:18] 📤 US headlines sent.
+[2025-04-24 20:31:22] ✅ Final market summary sent.
+[2025-04-24 20:31:22] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 20:36:23] 🔄 Run started
+[2025-04-24 20:36:37] ⚠️ No new headlines found.
+[2025-04-24 20:36:42] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 20:41:43] 🔄 Run started
+[2025-04-24 20:42:01] 📰 8 new headlines fetched.
+[2025-04-24 20:42:07] 📤 Global headlines sent.
+[2025-04-24 20:42:13] 📤 Europe headlines sent.
+[2025-04-24 20:42:14] 📤 US headlines sent.
+[2025-04-24 20:42:15] 📤 Asia headlines sent.
+[2025-04-24 20:42:17] 📤 Crypto headlines sent.
+[2025-04-24 20:42:20] ✅ Final market summary sent.
+[2025-04-24 20:42:20] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 20:47:20] 🔄 Run started
+[2025-04-24 20:47:37] ⚠️ No new headlines found.
+[2025-04-24 20:47:42] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 20:52:42] 🔄 Run started
+[2025-04-24 20:53:00] ⚠️ No new headlines found.
+[2025-04-24 20:53:05] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 20:58:05] 🔄 Run started
+[2025-04-24 20:58:22] 📰 4 new headlines fetched.
+[2025-04-24 20:58:30] 📤 US headlines sent.
+[2025-04-24 20:58:31] 📤 Commodities headlines sent.
+[2025-04-24 20:58:34] 📤 Global headlines sent.
+[2025-04-24 20:58:37] ✅ Final market summary sent.
+[2025-04-24 20:58:37] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 21:03:37] 🔄 Run started
+[2025-04-24 21:03:55] ⚠️ No new headlines found.
+[2025-04-24 21:04:00] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 21:09:00] 🔄 Run started
+[2025-04-24 21:09:16] 📰 5 new headlines fetched.
+[2025-04-24 21:09:25] 📤 Global headlines sent.
+[2025-04-24 21:09:27] 📤 US headlines sent.
+[2025-04-24 21:09:29] ✅ Final market summary sent.
+[2025-04-24 21:09:29] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 21:14:29] 🔄 Run started
+[2025-04-24 21:14:49] ⚠️ No new headlines found.
+[2025-04-24 21:14:54] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 21:19:54] 🔄 Run started
+[2025-04-24 21:20:13] ⚠️ No new headlines found.
+[2025-04-24 21:20:18] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 21:25:19] 🔄 Run started
+[2025-04-24 21:25:37] 📰 4 new headlines fetched.
+[2025-04-24 21:25:48] 📤 Global headlines sent.
+[2025-04-24 21:25:50] 📤 Asia headlines sent.
+[2025-04-24 21:25:52] 📤 US headlines sent.
+[2025-04-24 21:25:54] ✅ Final market summary sent.
+[2025-04-24 21:25:54] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 21:30:54] 🔄 Run started
+[2025-04-24 21:31:12] ⚠️ No new headlines found.
+[2025-04-24 21:31:17] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 21:36:17] 🔄 Run started
+[2025-04-24 21:36:33] 📰 10 new headlines fetched.
+[2025-04-24 21:36:42] 📤 Global headlines sent.
+[2025-04-24 21:36:44] 📤 US headlines sent.
+[2025-04-24 21:36:49] ✅ Final market summary sent.
+[2025-04-24 21:36:49] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 21:41:49] 🔄 Run started
+[2025-04-24 21:42:07] ⚠️ No new headlines found.
+[2025-04-24 21:42:12] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 21:47:12] 🔄 Run started
+[2025-04-24 21:47:30] ⚠️ No new headlines found.
+[2025-04-24 21:47:35] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 21:52:35] 🔄 Run started
+[2025-04-24 21:52:50] 📰 1 new headlines fetched.
+[2025-04-24 21:52:57] 📤 Global headlines sent.
+[2025-04-24 21:53:00] ✅ Final market summary sent.
+[2025-04-24 21:53:00] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 21:58:00] 🔄 Run started
+[2025-04-24 21:58:17] ⚠️ No new headlines found.
+[2025-04-24 21:58:22] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 22:03:22] 🔄 Run started
+[2025-04-24 22:03:40] 📰 4 new headlines fetched.
+[2025-04-24 22:03:49] 📤 Global headlines sent.
+[2025-04-24 22:03:56] ✅ Final market summary sent.
+[2025-04-24 22:03:56] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 22:08:56] 🔄 Run started
+[2025-04-24 22:09:16] ⚠️ No new headlines found.
+[2025-04-24 22:09:21] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 22:14:21] 🔄 Run started
+[2025-04-24 22:14:42] ⚠️ No new headlines found.
+[2025-04-24 22:14:47] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 22:19:47] 🔄 Run started
+[2025-04-24 22:20:06] 📰 4 new headlines fetched.
+[2025-04-24 22:20:15] 📤 US headlines sent.
+[2025-04-24 22:20:17] 📤 Europe headlines sent.
+[2025-04-24 22:20:19] ✅ Final market summary sent.
+[2025-04-24 22:20:19] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 22:25:19] 🔄 Run started
+[2025-04-24 22:25:36] ⚠️ No new headlines found.
+[2025-04-24 22:25:41] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 22:30:41] 🔄 Run started
+[2025-04-24 22:31:00] 📰 5 new headlines fetched.
+[2025-04-24 22:31:08] 📤 Global headlines sent.
+[2025-04-24 22:31:09] 📤 US headlines sent.
+[2025-04-24 22:31:12] 📤 Europe headlines sent.
+[2025-04-24 22:31:17] ✅ Final market summary sent.
+[2025-04-24 22:31:17] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 22:36:17] 🔄 Run started
+[2025-04-24 22:36:34] ⚠️ No new headlines found.
+[2025-04-24 22:36:39] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 22:41:39] 🔄 Run started
+[2025-04-24 22:41:55] ⚠️ No new headlines found.
+[2025-04-24 22:42:00] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 22:47:01] 🔄 Run started
+[2025-04-24 22:47:16] 📰 8 new headlines fetched.
+[2025-04-24 22:47:23] 📤 Global headlines sent.
+[2025-04-24 22:47:27] 📤 Europe headlines sent.
+[2025-04-24 22:47:29] 📤 US headlines sent.
+[2025-04-24 22:47:32] ✅ Final market summary sent.
+[2025-04-24 22:47:32] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 22:52:32] 🔄 Run started
+[2025-04-24 22:52:51] ⚠️ No new headlines found.
+[2025-04-24 22:52:56] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 22:57:56] 🔄 Run started
+[2025-04-24 22:58:11] 📰 7 new headlines fetched.
+[2025-04-24 22:58:20] 📤 Global headlines sent.
+[2025-04-24 22:58:22] 📤 US headlines sent.
+[2025-04-24 22:58:25] ✅ Final market summary sent.
+[2025-04-24 22:58:25] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 23:03:25] 🔄 Run started
+[2025-04-24 23:03:42] ⚠️ No new headlines found.
+[2025-04-24 23:03:47] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 23:08:48] 🔄 Run started
+[2025-04-24 23:09:07] ⚠️ No new headlines found.
+[2025-04-24 23:09:12] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 23:14:12] 🔄 Run started
+[2025-04-24 23:14:30] 📰 3 new headlines fetched.
+[2025-04-24 23:14:38] 📤 Global headlines sent.
+[2025-04-24 23:14:41] ✅ Final market summary sent.
+[2025-04-24 23:14:41] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 23:19:41] 🔄 Run started
+[2025-04-24 23:20:01] ⚠️ No new headlines found.
+[2025-04-24 23:20:06] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 23:25:06] 🔄 Run started
+[2025-04-24 23:25:25] 📰 20 new headlines fetched.
+[2025-04-24 23:25:31] 📤 Asia headlines sent.
+[2025-04-24 23:25:35] 📤 Global headlines sent.
+[2025-04-24 23:25:36] 📤 US headlines sent.
+[2025-04-24 23:25:38] 📤 Europe headlines sent.
+[2025-04-24 23:25:41] ✅ Final market summary sent.
+[2025-04-24 23:25:41] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 23:30:41] 🔄 Run started
+[2025-04-24 23:31:02] 📰 4 new headlines fetched.
+[2025-04-24 23:31:10] 📤 Global headlines sent.
+[2025-04-24 23:31:12] 📤 US headlines sent.
+[2025-04-24 23:31:15] ✅ Final market summary sent.
+[2025-04-24 23:31:15] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 23:36:15] 🔄 Run started
+[2025-04-24 23:36:29] 📰 16 new headlines fetched.
+[2025-04-24 23:36:36] 📤 US headlines sent.
+[2025-04-24 23:36:41] 📤 Global headlines sent.
+[2025-04-24 23:36:44] ✅ Final market summary sent.
+[2025-04-24 23:36:44] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 23:41:44] 🔄 Run started
+[2025-04-24 23:42:04] ⚠️ No new headlines found.
+[2025-04-24 23:42:09] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 23:47:09] 🔄 Run started
+[2025-04-24 23:47:27] ⚠️ No new headlines found.
+[2025-04-24 23:47:32] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 23:52:32] 🔄 Run started
+[2025-04-24 23:52:51] 📰 12 new headlines fetched.
+[2025-04-24 23:53:02] 📤 Global headlines sent.
+[2025-04-24 23:53:08] 📤 US headlines sent.
+[2025-04-24 23:53:13] ✅ Final market summary sent.
+[2025-04-24 23:53:13] ✅ Run complete. Waiting 5 minutes...
+[2025-04-24 23:58:13] 🔄 Run started
+[2025-04-24 23:58:30] ⚠️ No new headlines found.
+[2025-04-24 23:58:35] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 00:03:35] 🔄 Run started
+[2025-04-25 00:03:54] 📰 9 new headlines fetched.
+[2025-04-25 00:04:04] 📤 Global headlines sent.
+[2025-04-25 00:04:06] 📤 Europe headlines sent.
+[2025-04-25 00:04:11] ✅ Final market summary sent.
+[2025-04-25 00:04:11] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 00:09:11] 🔄 Run started
+[2025-04-25 00:09:30] 📰 1 new headlines fetched.
+[2025-04-25 00:09:36] 📤 Global headlines sent.
+[2025-04-25 00:09:40] ✅ Final market summary sent.
+[2025-04-25 00:09:40] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 00:14:40] 🔄 Run started
+[2025-04-25 00:15:01] 📰 9 new headlines fetched.
+[2025-04-25 00:15:07] 📤 Crypto headlines sent.
+[2025-04-25 00:15:10] 📤 Global headlines sent.
+[2025-04-25 00:15:13] 📤 US headlines sent.
+[2025-04-25 00:15:17] ✅ Final market summary sent.
+[2025-04-25 00:15:17] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 00:20:17] 🔄 Run started
+[2025-04-25 00:20:35] 📰 2 new headlines fetched.
+[2025-04-25 00:20:43] 📤 Global headlines sent.
+[2025-04-25 00:20:46] ✅ Final market summary sent.
+[2025-04-25 00:20:46] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 00:25:46] 🔄 Run started
+[2025-04-25 00:26:06] ⚠️ No new headlines found.
+[2025-04-25 00:26:11] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 00:31:12] 🔄 Run started
+[2025-04-25 00:31:30] 📰 9 new headlines fetched.
+[2025-04-25 00:31:38] 📤 Global headlines sent.
+[2025-04-25 00:31:45] 📤 US headlines sent.
+[2025-04-25 00:31:49] ✅ Final market summary sent.
+[2025-04-25 00:31:49] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 00:36:49] 🔄 Run started
+[2025-04-25 00:37:05] ⚠️ No new headlines found.
+[2025-04-25 00:37:10] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 00:42:11] 🔄 Run started
+[2025-04-25 00:42:27] 📰 3 new headlines fetched.
+[2025-04-25 00:42:33] 📤 Global headlines sent.
+[2025-04-25 00:42:36] 📤 US headlines sent.
+[2025-04-25 00:42:38] ✅ Final market summary sent.
+[2025-04-25 00:42:38] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 00:47:38] 🔄 Run started
+[2025-04-25 00:47:56] ⚠️ No new headlines found.
+[2025-04-25 00:48:01] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 00:53:01] 🔄 Run started
+[2025-04-25 00:53:18] ⚠️ No new headlines found.
+[2025-04-25 00:53:23] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 00:58:23] 🔄 Run started
+[2025-04-25 00:58:39] 📰 8 new headlines fetched.
+[2025-04-25 00:58:49] 📤 Global headlines sent.
+[2025-04-25 00:58:50] 📤 Commodities headlines sent.
+[2025-04-25 00:58:52] 📤 US headlines sent.
+[2025-04-25 00:58:56] ✅ Final market summary sent.
+[2025-04-25 00:58:56] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 01:03:56] 🔄 Run started
+[2025-04-25 01:04:15] ⚠️ No new headlines found.
+[2025-04-25 01:04:20] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 01:09:20] 🔄 Run started
+[2025-04-25 01:09:38] 📰 3 new headlines fetched.
+[2025-04-25 01:09:46] 📤 Global headlines sent.
+[2025-04-25 01:09:47] 📤 US headlines sent.
+[2025-04-25 01:09:49] ✅ Final market summary sent.
+[2025-04-25 01:09:49] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 01:14:50] 🔄 Run started
+[2025-04-25 01:15:06] ⚠️ No new headlines found.
+[2025-04-25 01:15:11] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 01:20:11] 🔄 Run started
+[2025-04-25 01:20:30] ⚠️ No new headlines found.
+[2025-04-25 01:20:35] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 01:25:35] 🔄 Run started
+[2025-04-25 01:25:53] 📰 4 new headlines fetched.
+[2025-04-25 01:26:01] 📤 Global headlines sent.
+[2025-04-25 01:26:03] 📤 US headlines sent.
+[2025-04-25 01:26:06] ✅ Final market summary sent.
+[2025-04-25 01:26:06] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 01:31:06] 🔄 Run started
+[2025-04-25 01:31:22] ⚠️ No new headlines found.
+[2025-04-25 01:31:27] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 01:36:28] 🔄 Run started
+[2025-04-25 01:36:46] 📰 3 new headlines fetched.
+[2025-04-25 01:36:53] 📤 US headlines sent.
+[2025-04-25 01:36:56] ✅ Final market summary sent.
+[2025-04-25 01:36:56] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 01:41:56] 🔄 Run started
+[2025-04-25 01:42:14] ⚠️ No new headlines found.
+[2025-04-25 01:42:19] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 01:47:20] 🔄 Run started
+[2025-04-25 01:47:41] ⚠️ No new headlines found.
+[2025-04-25 01:47:46] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 01:52:46] 🔄 Run started
+[2025-04-25 01:53:03] 📰 4 new headlines fetched.
+[2025-04-25 01:53:11] 📤 US headlines sent.
+[2025-04-25 01:53:16] 📤 Global headlines sent.
+[2025-04-25 01:53:18] ✅ Final market summary sent.
+[2025-04-25 01:53:18] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 01:58:18] 🔄 Run started
+[2025-04-25 01:58:35] ⚠️ No new headlines found.
+[2025-04-25 01:58:40] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 02:03:40] 🔄 Run started
+[2025-04-25 02:04:01] 📰 1 new headlines fetched.
+[2025-04-25 02:04:08] 📤 Global headlines sent.
+[2025-04-25 02:04:11] ✅ Final market summary sent.
+[2025-04-25 02:04:11] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 02:09:11] 🔄 Run started
+[2025-04-25 02:09:26] ⚠️ No new headlines found.
+[2025-04-25 02:09:31] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 02:14:32] 🔄 Run started
+[2025-04-25 02:14:49] 📰 1 new headlines fetched.
+[2025-04-25 02:14:57] 📤 Global headlines sent.
+[2025-04-25 02:14:59] ✅ Final market summary sent.
+[2025-04-25 02:14:59] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 02:19:59] 🔄 Run started
+[2025-04-25 02:20:17] 📰 3 new headlines fetched.
+[2025-04-25 02:20:24] 📤 Global headlines sent.
+[2025-04-25 02:20:26] ✅ Final market summary sent.
+[2025-04-25 02:20:26] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 02:25:27] 🔄 Run started
+[2025-04-25 02:25:44] ⚠️ No new headlines found.
+[2025-04-25 02:25:49] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 02:30:50] 🔄 Run started
+[2025-04-25 02:31:08] 📰 1 new headlines fetched.
+[2025-04-25 02:31:14] 📤 US headlines sent.
+[2025-04-25 02:31:17] ✅ Final market summary sent.
+[2025-04-25 02:31:17] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 02:36:17] 🔄 Run started
+[2025-04-25 02:36:34] ⚠️ No new headlines found.
+[2025-04-25 02:36:39] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 02:41:39] 🔄 Run started
+[2025-04-25 02:41:55] ⚠️ No new headlines found.
+[2025-04-25 02:42:00] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 02:47:00] 🔄 Run started
+[2025-04-25 02:47:21] 📰 2 new headlines fetched.
+[2025-04-25 02:47:29] 📤 US headlines sent.
+[2025-04-25 02:47:32] ✅ Final market summary sent.
+[2025-04-25 02:47:32] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 02:52:32] 🔄 Run started
+[2025-04-25 02:52:50] ⚠️ No new headlines found.
+[2025-04-25 02:52:55] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 02:57:55] 🔄 Run started
+[2025-04-25 02:58:13] ⚠️ No new headlines found.
+[2025-04-25 02:58:18] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 03:03:18] 🔄 Run started
+[2025-04-25 03:03:34] ⚠️ No new headlines found.
+[2025-04-25 03:03:39] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 03:08:39] 🔄 Run started
+[2025-04-25 03:08:59] ⚠️ No new headlines found.
+[2025-04-25 03:09:04] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 03:14:04] 🔄 Run started
+[2025-04-25 03:14:24] 📰 11 new headlines fetched.
+[2025-04-25 03:14:32] 📤 US headlines sent.
+[2025-04-25 03:14:36] 📤 Global headlines sent.
+[2025-04-25 03:14:38] ✅ Final market summary sent.
+[2025-04-25 03:14:38] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 03:19:38] 🔄 Run started
+[2025-04-25 03:19:54] ⚠️ No new headlines found.
+[2025-04-25 03:19:59] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 03:25:00] 🔄 Run started
+[2025-04-25 03:25:17] 📰 12 new headlines fetched.
+[2025-04-25 03:25:25] 📤 Global headlines sent.
+[2025-04-25 03:25:27] ✅ Final market summary sent.
+[2025-04-25 03:25:27] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 03:30:27] 🔄 Run started
+[2025-04-25 03:30:42] ⚠️ No new headlines found.
+[2025-04-25 03:30:47] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 03:35:48] 🔄 Run started
+[2025-04-25 03:36:05] ⚠️ No new headlines found.
+[2025-04-25 03:36:10] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 03:41:11] 🔄 Run started
+[2025-04-25 03:41:27] 📰 6 new headlines fetched.
+[2025-04-25 03:41:35] 📤 US headlines sent.
+[2025-04-25 03:41:39] 📤 Global headlines sent.
+[2025-04-25 03:41:43] ✅ Final market summary sent.
+[2025-04-25 03:41:43] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 03:46:43] 🔄 Run started
+[2025-04-25 03:47:00] ⚠️ No new headlines found.
+[2025-04-25 03:47:05] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 03:52:05] 🔄 Run started
+[2025-04-25 03:52:24] 📰 1 new headlines fetched.
+[2025-04-25 03:52:31] 📤 US headlines sent.
+[2025-04-25 03:52:33] ✅ Final market summary sent.
+[2025-04-25 03:52:33] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 03:57:33] 🔄 Run started
+[2025-04-25 03:57:51] ⚠️ No new headlines found.
+[2025-04-25 03:57:56] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 04:02:57] 🔄 Run started
+[2025-04-25 04:03:16] ⚠️ No new headlines found.
+[2025-04-25 04:03:21] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 04:08:21] 🔄 Run started
+[2025-04-25 04:08:39] 📰 2 new headlines fetched.
+[2025-04-25 04:08:46] 📤 Global headlines sent.
+[2025-04-25 04:08:48] 📤 US headlines sent.
+[2025-04-25 04:08:51] ✅ Final market summary sent.
+[2025-04-25 04:08:51] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 04:13:51] 🔄 Run started
+[2025-04-25 04:14:07] ⚠️ No new headlines found.
+[2025-04-25 04:14:12] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 04:19:13] 🔄 Run started
+[2025-04-25 04:19:32] ⚠️ No new headlines found.
+[2025-04-25 04:19:37] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 04:24:37] 🔄 Run started
+[2025-04-25 04:24:55] ⚠️ No new headlines found.
+[2025-04-25 04:25:00] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 04:30:00] 🔄 Run started
+[2025-04-25 04:30:18] ⚠️ No new headlines found.
+[2025-04-25 04:30:23] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 04:35:23] 🔄 Run started
+[2025-04-25 04:35:41] ⚠️ No new headlines found.
+[2025-04-25 04:35:46] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 04:40:46] 🔄 Run started
+[2025-04-25 04:41:03] ⚠️ No new headlines found.
+[2025-04-25 04:41:08] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 04:46:08] 🔄 Run started
+[2025-04-25 04:46:25] ⚠️ No new headlines found.
+[2025-04-25 04:46:30] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 04:51:30] 🔄 Run started
+[2025-04-25 04:51:47] ⚠️ No new headlines found.
+[2025-04-25 04:51:52] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 04:56:52] 🔄 Run started
+[2025-04-25 04:57:10] ⚠️ No new headlines found.
+[2025-04-25 04:57:15] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 05:02:16] 🔄 Run started
+[2025-04-25 05:02:34] ⚠️ No new headlines found.
+[2025-04-25 05:02:39] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 05:07:39] 🔄 Run started
+[2025-04-25 05:07:55] ⚠️ No new headlines found.
+[2025-04-25 05:08:00] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 05:13:00] 🔄 Run started
+[2025-04-25 05:13:18] ⚠️ No new headlines found.
+[2025-04-25 05:13:23] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 05:18:23] 🔄 Run started
+[2025-04-25 05:18:43] 📰 1 new headlines fetched.
+[2025-04-25 05:18:50] 📤 Global headlines sent.
+[2025-04-25 05:18:53] ✅ Final market summary sent.
+[2025-04-25 05:18:53] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 05:23:54] 🔄 Run started
+[2025-04-25 05:24:13] ⚠️ No new headlines found.
+[2025-04-25 05:24:18] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 05:29:18] 🔄 Run started
+[2025-04-25 05:29:36] ⚠️ No new headlines found.
+[2025-04-25 05:29:36] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 05:34:36] 🔄 Run started
+[2025-04-25 05:34:52] 📰 3 new headlines fetched.
+[2025-04-25 05:34:59] 📤 US headlines sent.
+[2025-04-25 05:35:01] 📤 Global headlines sent.
+[2025-04-25 05:35:03] ✅ Final market summary sent.
+[2025-04-25 05:35:03] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 05:40:03] 🔄 Run started
+[2025-04-25 05:40:21] ⚠️ No new headlines found.
+[2025-04-25 05:40:26] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 05:45:26] 🔄 Run started
+[2025-04-25 05:45:44] 📰 2 new headlines fetched.
+[2025-04-25 05:45:51] 📤 US headlines sent.
+[2025-04-25 05:45:53] 📤 Global headlines sent.
+[2025-04-25 05:45:55] ✅ Final market summary sent.
+[2025-04-25 05:45:55] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 05:50:56] 🔄 Run started
+[2025-04-25 05:51:13] ⚠️ No new headlines found.
+[2025-04-25 05:51:18] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 05:56:18] 🔄 Run started
+[2025-04-25 05:56:35] ⚠️ No new headlines found.
+[2025-04-25 05:56:40] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 06:01:40] 🔄 Run started
+[2025-04-25 06:01:59] 📰 1 new headlines fetched.
+[2025-04-25 06:02:06] 📤 Asia headlines sent.
+[2025-04-25 06:02:09] ✅ Final market summary sent.
+[2025-04-25 06:02:09] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 06:07:09] 🔄 Run started
+[2025-04-25 06:07:27] ⚠️ No new headlines found.
+[2025-04-25 06:07:32] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 06:12:33] 🔄 Run started
+[2025-04-25 06:12:48] 📰 1 new headlines fetched.
+[2025-04-25 06:12:54] 📤 Global headlines sent.
+[2025-04-25 06:12:56] ✅ Final market summary sent.
+[2025-04-25 06:12:56] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 06:17:56] 🔄 Run started
+[2025-04-25 06:18:12] ⚠️ No new headlines found.
+[2025-04-25 06:18:17] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 06:23:17] 🔄 Run started
+[2025-04-25 06:23:37] ⚠️ No new headlines found.
+[2025-04-25 06:23:42] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 06:28:43] 🔄 Run started
+[2025-04-25 06:29:00] ⚠️ No new headlines found.
+[2025-04-25 06:29:05] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 06:34:06] 🔄 Run started
+[2025-04-25 06:34:22] ⚠️ No new headlines found.
+[2025-04-25 06:34:27] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 06:39:28] 🔄 Run started
+[2025-04-25 06:39:44] 📰 1 new headlines fetched.
+[2025-04-25 06:39:51] 📤 Asia headlines sent.
+[2025-04-25 06:39:53] ✅ Final market summary sent.
+[2025-04-25 06:39:53] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 06:44:53] 🔄 Run started
+[2025-04-25 06:45:09] ⚠️ No new headlines found.
+[2025-04-25 06:45:14] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 06:50:15] 🔄 Run started
+[2025-04-25 06:50:34] ⚠️ No new headlines found.
+[2025-04-25 06:50:39] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 06:55:40] 🔄 Run started
+[2025-04-25 06:55:57] 📰 1 new headlines fetched.
+[2025-04-25 06:56:04] 📤 US headlines sent.
+[2025-04-25 06:56:07] ✅ Final market summary sent.
+[2025-04-25 06:56:07] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 07:01:07] 🔄 Run started
+[2025-04-25 07:01:24] ⚠️ No new headlines found.
+[2025-04-25 07:01:29] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 07:06:29] 🔄 Run started
+[2025-04-25 07:06:48] ⚠️ No new headlines found.
+[2025-04-25 07:06:53] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 07:11:54] 🔄 Run started
+[2025-04-25 07:12:09] 📰 1 new headlines fetched.
+[2025-04-25 07:12:16] 📤 Global headlines sent.
+[2025-04-25 07:12:22] ✅ Final market summary sent.
+[2025-04-25 07:12:22] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 07:17:22] 🔄 Run started
+[2025-04-25 07:17:43] ⚠️ No new headlines found.
+[2025-04-25 07:17:48] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 07:22:48] 🔄 Run started
+[2025-04-25 07:23:03] ⚠️ No new headlines found.
+[2025-04-25 07:23:08] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 07:28:08] 🔄 Run started
+[2025-04-25 07:28:25] 📰 4 new headlines fetched.
+[2025-04-25 07:28:32] 📤 US headlines sent.
+[2025-04-25 07:28:34] 📤 Commodities headlines sent.
+[2025-04-25 07:28:36] ✅ Final market summary sent.
+[2025-04-25 07:28:36] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 07:33:36] 🔄 Run started
+[2025-04-25 07:33:53] ⚠️ No new headlines found.
+[2025-04-25 07:33:58] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 07:38:58] 🔄 Run started
+[2025-04-25 07:39:15] ⚠️ No new headlines found.
+[2025-04-25 07:39:20] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 07:44:20] 🔄 Run started
+[2025-04-25 07:44:38] 📰 1 new headlines fetched.
+[2025-04-25 07:44:44] 📤 US headlines sent.
+[2025-04-25 07:44:46] ✅ Final market summary sent.
+[2025-04-25 07:44:46] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 07:49:46] 🔄 Run started
+[2025-04-25 07:50:03] ⚠️ No new headlines found.
+[2025-04-25 07:50:08] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 07:55:08] 🔄 Run started
+[2025-04-25 07:55:29] 📰 1 new headlines fetched.
+[2025-04-25 07:55:36] 📤 US headlines sent.
+[2025-04-25 07:55:41] ✅ Final market summary sent.
+[2025-04-25 07:55:41] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 08:00:41] 🔄 Run started
+[2025-04-25 08:00:57] ⚠️ No new headlines found.
+[2025-04-25 08:01:02] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 08:06:02] 🔄 Run started
+[2025-04-25 08:06:23] ⚠️ No new headlines found.
+[2025-04-25 08:06:28] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 08:11:28] 🔄 Run started
+[2025-04-25 08:11:48] ⚠️ No new headlines found.
+[2025-04-25 08:11:53] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 08:16:53] 🔄 Run started
+[2025-04-25 08:17:11] 📰 1 new headlines fetched.
+[2025-04-25 08:17:18] 📤 US headlines sent.
+[2025-04-25 08:17:20] ✅ Final market summary sent.
+[2025-04-25 08:17:20] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 08:22:20] 🔄 Run started
+[2025-04-25 08:22:39] ⚠️ No new headlines found.
+[2025-04-25 08:22:44] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 08:27:44] 🔄 Run started
+[2025-04-25 08:28:04] ⚠️ No new headlines found.
+[2025-04-25 08:28:09] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 08:33:09] 🔄 Run started
+[2025-04-25 08:33:28] 📰 2 new headlines fetched.
+[2025-04-25 08:33:35] 📤 Global headlines sent.
+[2025-04-25 08:33:36] 📤 US headlines sent.
+[2025-04-25 08:33:38] ✅ Final market summary sent.
+[2025-04-25 08:33:38] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 08:38:38] 🔄 Run started
+[2025-04-25 08:38:54] ⚠️ No new headlines found.
+[2025-04-25 08:38:59] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 08:43:59] 🔄 Run started
+[2025-04-25 08:44:18] ⚠️ No new headlines found.
+[2025-04-25 08:44:23] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 08:49:23] 🔄 Run started
+[2025-04-25 08:49:40] 📰 10 new headlines fetched.
+[2025-04-25 08:49:48] 📤 Global headlines sent.
+[2025-04-25 08:49:50] 📤 Europe headlines sent.
+[2025-04-25 08:49:51] 📤 US headlines sent.
+[2025-04-25 08:49:53] ✅ Final market summary sent.
+[2025-04-25 08:49:53] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 08:54:53] 🔄 Run started
+[2025-04-25 08:55:10] ⚠️ No new headlines found.
+[2025-04-25 08:55:15] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 09:00:16] 🔄 Run started
+[2025-04-25 09:00:34] 📰 7 new headlines fetched.
+[2025-04-25 09:00:41] 📤 Europe headlines sent.
+[2025-04-25 09:00:45] 📤 Global headlines sent.
+[2025-04-25 09:00:47] ✅ Final market summary sent.
+[2025-04-25 09:00:47] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 09:05:47] 🔄 Run started
+[2025-04-25 09:06:03] ⚠️ No new headlines found.
+[2025-04-25 09:06:08] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 09:11:09] 🔄 Run started
+[2025-04-25 09:11:26] ⚠️ No new headlines found.
+[2025-04-25 09:11:31] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 09:16:31] 🔄 Run started
+[2025-04-25 09:16:52] 📰 5 new headlines fetched.
+[2025-04-25 09:16:59] 📤 Global headlines sent.
+[2025-04-25 09:17:01] 📤 US headlines sent.
+[2025-04-25 09:17:03] 📤 Asia headlines sent.
+[2025-04-25 09:17:05] ✅ Final market summary sent.
+[2025-04-25 09:17:05] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 09:22:05] 🔄 Run started
+[2025-04-25 09:22:22] ⚠️ No new headlines found.
+[2025-04-25 09:22:27] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 09:27:28] 🔄 Run started
+[2025-04-25 09:27:46] ⚠️ No new headlines found.
+[2025-04-25 09:27:51] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 09:32:52] 🔄 Run started
+[2025-04-25 09:33:12] 📰 2 new headlines fetched.
+[2025-04-25 09:33:19] 📤 Global headlines sent.
+[2025-04-25 09:33:21] ✅ Final market summary sent.
+[2025-04-25 09:33:21] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 09:38:21] 🔄 Run started
+[2025-04-25 09:38:39] 📰 2 new headlines fetched.
+[2025-04-25 09:38:45] 📤 US headlines sent.
+[2025-04-25 09:38:47] 📤 Global headlines sent.
+[2025-04-25 09:38:49] ✅ Final market summary sent.
+[2025-04-25 09:38:49] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 09:43:49] 🔄 Run started
+[2025-04-25 09:44:06] 📰 5 new headlines fetched.
+[2025-04-25 09:44:12] 📤 Asia headlines sent.
+[2025-04-25 09:44:16] 📤 US headlines sent.
+[2025-04-25 09:44:18] ✅ Final market summary sent.
+[2025-04-25 09:44:18] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 09:49:18] 🔄 Run started
+[2025-04-25 09:49:36] ⚠️ No new headlines found.
+[2025-04-25 09:49:41] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 09:54:42] 🔄 Run started
+[2025-04-25 09:54:58] 📰 2 new headlines fetched.
+[2025-04-25 09:55:05] 📤 Global headlines sent.
+[2025-04-25 09:55:07] ✅ Final market summary sent.
+[2025-04-25 09:55:07] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 10:00:07] 🔄 Run started
+[2025-04-25 10:00:22] ⚠️ No new headlines found.
+[2025-04-25 10:00:27] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 10:05:27] 🔄 Run started
+[2025-04-25 10:05:49] ⚠️ No new headlines found.
+[2025-04-25 10:05:54] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 10:10:54] 🔄 Run started
+[2025-04-25 10:11:13] 📰 5 new headlines fetched.
+[2025-04-25 10:11:20] 📤 Asia headlines sent.
+[2025-04-25 10:11:23] 📤 Europe headlines sent.
+[2025-04-25 10:11:24] 📤 Global headlines sent.
+[2025-04-25 10:11:27] ✅ Final market summary sent.
+[2025-04-25 10:11:27] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 10:16:27] 🔄 Run started
+[2025-04-25 10:16:43] ⚠️ No new headlines found.
+[2025-04-25 10:16:48] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 10:21:48] 🔄 Run started
+[2025-04-25 10:22:07] 📰 2 new headlines fetched.
+[2025-04-25 10:22:14] 📤 Global headlines sent.
+[2025-04-25 10:22:16] ✅ Final market summary sent.
+[2025-04-25 10:22:16] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 10:27:16] 🔄 Run started
+[2025-04-25 10:27:35] 📰 1 new headlines fetched.
+[2025-04-25 10:27:41] 📤 Europe headlines sent.
+[2025-04-25 10:27:43] ✅ Final market summary sent.
+[2025-04-25 10:27:43] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 10:32:43] 🔄 Run started
+[2025-04-25 10:32:58] ⚠️ No new headlines found.
+[2025-04-25 10:33:03] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 10:38:03] 🔄 Run started
+[2025-04-25 10:38:23] 📰 7 new headlines fetched.
+[2025-04-25 10:38:31] 📤 Global headlines sent.
+[2025-04-25 10:38:32] 📤 US headlines sent.
+[2025-04-25 10:38:33] 📤 Europe headlines sent.
+[2025-04-25 10:38:36] ✅ Final market summary sent.
+[2025-04-25 10:38:36] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 10:43:36] 🔄 Run started
+[2025-04-25 10:43:53] ⚠️ No new headlines found.
+[2025-04-25 10:43:58] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 10:48:59] 🔄 Run started
+[2025-04-25 10:49:20] 📰 2 new headlines fetched.
+[2025-04-25 10:49:27] 📤 Global headlines sent.
+[2025-04-25 10:49:29] ✅ Final market summary sent.
+[2025-04-25 10:49:29] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 10:54:29] 🔄 Run started
+[2025-04-25 10:54:47] ⚠️ No new headlines found.
+[2025-04-25 10:54:52] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 10:59:53] 🔄 Run started
+[2025-04-25 11:00:10] 📰 5 new headlines fetched.
+[2025-04-25 11:00:17] 📤 Global headlines sent.
+[2025-04-25 11:00:20] 📤 Europe headlines sent.
+[2025-04-25 11:00:23] ✅ Final market summary sent.
+[2025-04-25 11:00:23] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 11:05:23] 🔄 Run started
+[2025-04-25 11:05:40] ⚠️ No new headlines found.
+[2025-04-25 11:05:45] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 11:10:45] 🔄 Run started
+[2025-04-25 11:11:04] ⚠️ No new headlines found.
+[2025-04-25 11:11:09] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 11:16:09] 🔄 Run started
+[2025-04-25 11:16:27] ⚠️ No new headlines found.
+[2025-04-25 11:16:32] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 11:21:32] 🔄 Run started
+[2025-04-25 11:21:52] 📰 15 new headlines fetched.
+[2025-04-25 11:22:00] 📤 Global headlines sent.
+[2025-04-25 11:22:02] 📤 Europe headlines sent.
+[2025-04-25 11:22:03] 📤 Asia headlines sent.
+[2025-04-25 11:22:05] ✅ Final market summary sent.
+[2025-04-25 11:22:05] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 11:27:05] 🔄 Run started
+[2025-04-25 11:27:21] ⚠️ No new headlines found.
+[2025-04-25 11:27:26] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 11:32:27] 🔄 Run started
+[2025-04-25 11:32:45] 📰 9 new headlines fetched.
+[2025-04-25 11:32:53] 📤 Global headlines sent.
+[2025-04-25 11:32:56] 📤 Europe headlines sent.
+[2025-04-25 11:32:58] ✅ Final market summary sent.
+[2025-04-25 11:32:58] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 11:37:59] 🔄 Run started
+[2025-04-25 11:38:17] ⚠️ No new headlines found.
+[2025-04-25 11:38:22] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 11:43:23] 🔄 Run started
+[2025-04-25 11:43:42] ⚠️ No new headlines found.
+[2025-04-25 11:43:47] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 11:48:47] 🔄 Run started
+[2025-04-25 11:49:06] 📰 5 new headlines fetched.
+[2025-04-25 11:49:14] 📤 Global headlines sent.
+[2025-04-25 11:49:16] 📤 US headlines sent.
+[2025-04-25 11:49:19] ✅ Final market summary sent.
+[2025-04-25 11:49:19] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 11:54:19] 🔄 Run started
+[2025-04-25 11:54:36] ⚠️ No new headlines found.
+[2025-04-25 11:54:41] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 11:59:41] 🔄 Run started
+[2025-04-25 12:00:01] 📰 6 new headlines fetched.
+[2025-04-25 12:00:09] 📤 Europe headlines sent.
+[2025-04-25 12:00:12] 📤 Global headlines sent.
+[2025-04-25 12:00:15] ✅ Final market summary sent.
+[2025-04-25 12:00:15] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 12:05:15] 🔄 Run started
+[2025-04-25 12:05:33] ⚠️ No new headlines found.
+[2025-04-25 12:05:38] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 12:10:38] 🔄 Run started
+[2025-04-25 12:10:56] 📰 5 new headlines fetched.
+[2025-04-25 12:11:04] 📤 US headlines sent.
+[2025-04-25 12:11:05] 📤 Global headlines sent.
+[2025-04-25 12:11:06] 📤 Asia headlines sent.
+[2025-04-25 12:11:08] 📤 Commodities headlines sent.
+[2025-04-25 12:11:11] ✅ Final market summary sent.
+[2025-04-25 12:11:11] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 12:16:11] 🔄 Run started
+[2025-04-25 12:16:27] ⚠️ No new headlines found.
+[2025-04-25 12:16:32] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 12:21:33] 🔄 Run started
+[2025-04-25 12:21:53] ⚠️ No new headlines found.
+[2025-04-25 12:21:58] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 12:26:59] 🔄 Run started
+[2025-04-25 12:27:14] 📰 2 new headlines fetched.
+[2025-04-25 12:27:21] 📤 Global headlines sent.
+[2025-04-25 12:27:23] 📤 Europe headlines sent.
+[2025-04-25 12:27:25] ✅ Final market summary sent.
+[2025-04-25 12:27:25] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 12:32:25] 🔄 Run started
+[2025-04-25 12:32:42] 📰 3 new headlines fetched.
+[2025-04-25 12:32:49] 📤 Global headlines sent.
+[2025-04-25 12:32:51] ✅ Final market summary sent.
+[2025-04-25 12:32:51] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 12:37:51] 🔄 Run started
+[2025-04-25 12:38:10] 📰 7 new headlines fetched.
+[2025-04-25 12:38:18] 📤 Global headlines sent.
+[2025-04-25 12:38:19] 📤 US headlines sent.
+[2025-04-25 12:38:20] 📤 Asia headlines sent.
+[2025-04-25 12:38:21] 📤 Commodities headlines sent.
+[2025-04-25 12:38:24] ✅ Final market summary sent.
+[2025-04-25 12:38:24] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 12:43:24] 🔄 Run started
+[2025-04-25 12:43:42] ⚠️ No new headlines found.
+[2025-04-25 12:43:47] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 12:48:48] 🔄 Run started
+[2025-04-25 12:49:07] ⚠️ No new headlines found.
+[2025-04-25 12:49:12] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 12:54:12] 🔄 Run started
+[2025-04-25 12:54:28] 📰 7 new headlines fetched.
+[2025-04-25 12:54:36] 📤 US headlines sent.
+[2025-04-25 12:54:38] 📤 Global headlines sent.
+[2025-04-25 12:54:41] ✅ Final market summary sent.
+[2025-04-25 12:54:41] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 12:59:41] 🔄 Run started
+[2025-04-25 12:59:57] ⚠️ No new headlines found.
+[2025-04-25 13:00:02] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 13:05:02] 🔄 Run started
+[2025-04-25 13:05:18] 📰 5 new headlines fetched.
+[2025-04-25 13:05:26] 📤 Global headlines sent.
+[2025-04-25 13:05:29] ✅ Final market summary sent.
+[2025-04-25 13:05:29] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 13:10:29] 🔄 Run started
+[2025-04-25 13:10:45] ⚠️ No new headlines found.
+[2025-04-25 13:10:50] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 13:15:50] 🔄 Run started
+[2025-04-25 13:16:07] ⚠️ No new headlines found.
+[2025-04-25 13:16:12] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 13:21:12] 🔄 Run started
+[2025-04-25 13:21:29] 📰 6 new headlines fetched.
+[2025-04-25 13:21:36] 📤 Asia headlines sent.
+[2025-04-25 13:21:39] 📤 Global headlines sent.
+[2025-04-25 13:21:42] ✅ Final market summary sent.
+[2025-04-25 13:21:42] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 13:26:42] 🔄 Run started
+[2025-04-25 13:27:00] ⚠️ No new headlines found.
+[2025-04-25 13:27:05] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 13:32:05] 🔄 Run started
+[2025-04-25 13:32:24] 📰 14 new headlines fetched.
+[2025-04-25 13:32:32] 📤 Global headlines sent.
+[2025-04-25 13:32:33] 📤 Europe headlines sent.
+[2025-04-25 13:32:36] 📤 US headlines sent.
+[2025-04-25 13:32:38] ✅ Final market summary sent.
+[2025-04-25 13:32:38] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 13:37:39] 🔄 Run started
+[2025-04-25 13:37:53] ⚠️ No new headlines found.
+[2025-04-25 13:37:58] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 13:42:58] 🔄 Run started
+[2025-04-25 13:43:13] 📰 6 new headlines fetched.
+[2025-04-25 13:43:20] 📤 US headlines sent.
+[2025-04-25 13:43:23] 📤 Global headlines sent.
+[2025-04-25 13:43:25] ✅ Final market summary sent.
+[2025-04-25 13:43:25] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 13:48:25] 🔄 Run started
+[2025-04-25 13:48:41] 📰 4 new headlines fetched.
+[2025-04-25 13:48:49] 📤 US headlines sent.
+[2025-04-25 13:48:51] 📤 Global headlines sent.
+[2025-04-25 13:48:52] 📤 Commodities headlines sent.
+[2025-04-25 13:48:54] ✅ Final market summary sent.
+[2025-04-25 13:48:54] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 13:53:54] 🔄 Run started
+[2025-04-25 13:54:10] ⚠️ No new headlines found.
+[2025-04-25 13:54:15] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 13:59:16] 🔄 Run started
+[2025-04-25 13:59:33] 📰 9 new headlines fetched.
+[2025-04-25 13:59:41] 📤 Global headlines sent.
+[2025-04-25 13:59:44] 📤 US headlines sent.
+[2025-04-25 13:59:46] ✅ Final market summary sent.
+[2025-04-25 13:59:46] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 14:04:47] 🔄 Run started
+[2025-04-25 14:05:08] 📰 3 new headlines fetched.
+[2025-04-25 14:05:15] 📤 Global headlines sent.
+[2025-04-25 14:05:17] ✅ Final market summary sent.
+[2025-04-25 14:05:17] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 14:10:17] 🔄 Run started
+[2025-04-25 14:10:36] 📰 5 new headlines fetched.
+[2025-04-25 14:10:46] 📤 Global headlines sent.
+[2025-04-25 14:10:48] ✅ Final market summary sent.
+[2025-04-25 14:10:48] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 14:15:48] 🔄 Run started
+[2025-04-25 14:16:05] ⚠️ No new headlines found.
+[2025-04-25 14:16:10] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 14:21:11] 🔄 Run started
+[2025-04-25 14:21:30] ⚠️ No new headlines found.
+[2025-04-25 14:21:35] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 14:26:35] 🔄 Run started
+[2025-04-25 14:26:53] 📰 10 new headlines fetched.
+[2025-04-25 14:27:01] 📤 Global headlines sent.
+[2025-04-25 14:27:03] 📤 US headlines sent.
+[2025-04-25 14:27:04] 📤 Asia headlines sent.
+[2025-04-25 14:27:06] ✅ Final market summary sent.
+[2025-04-25 14:27:06] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 14:32:06] 🔄 Run started
+[2025-04-25 14:32:26] ⚠️ No new headlines found.
+[2025-04-25 14:32:31] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 14:37:32] 🔄 Run started
+[2025-04-25 14:37:51] 📰 10 new headlines fetched.
+[2025-04-25 14:37:58] 📤 Global headlines sent.
+[2025-04-25 14:38:02] 📤 US headlines sent.
+[2025-04-25 14:38:04] ✅ Final market summary sent.
+[2025-04-25 14:38:04] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 14:43:04] 🔄 Run started
+[2025-04-25 14:43:21] 📰 2 new headlines fetched.
+[2025-04-25 14:43:28] 📤 Global headlines sent.
+[2025-04-25 14:43:30] ✅ Final market summary sent.
+[2025-04-25 14:43:30] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 14:48:30] 🔄 Run started
+[2025-04-25 14:48:49] ⚠️ No new headlines found.
+[2025-04-25 14:48:54] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 14:53:55] 🔄 Run started
+[2025-04-25 14:54:10] 📰 18 new headlines fetched.
+[2025-04-25 14:54:20] 📤 Global headlines sent.
+[2025-04-25 14:54:22] 📤 US headlines sent.
+[2025-04-25 14:54:23] 📤 Europe headlines sent.
+[2025-04-25 14:54:26] ✅ Final market summary sent.
+[2025-04-25 14:54:26] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 14:59:26] 🔄 Run started
+[2025-04-25 14:59:44] ⚠️ No new headlines found.
+[2025-04-25 14:59:49] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 15:04:50] 🔄 Run started
+[2025-04-25 15:05:04] 📰 16 new headlines fetched.
+[2025-04-25 15:05:13] 📤 Global headlines sent.
+[2025-04-25 15:05:14] 📤 US headlines sent.
+[2025-04-25 15:05:16] 📤 Europe headlines sent.
+[2025-04-25 15:05:17] 📤 Commodities headlines sent.
+[2025-04-25 15:05:22] ✅ Final market summary sent.
+[2025-04-25 15:05:22] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 15:10:22] 🔄 Run started
+[2025-04-25 15:10:41] 📰 3 new headlines fetched.
+[2025-04-25 15:10:50] 📤 Global headlines sent.
+[2025-04-25 15:10:52] 📤 US headlines sent.
+[2025-04-25 15:10:56] ✅ Final market summary sent.
+[2025-04-25 15:10:56] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 15:15:56] 🔄 Run started
+[2025-04-25 15:16:13] 📰 11 new headlines fetched.
+[2025-04-25 15:16:21] 📤 Global headlines sent.
+[2025-04-25 15:16:23] 📤 US headlines sent.
+[2025-04-25 15:16:24] 📤 Asia headlines sent.
+[2025-04-25 15:16:27] ✅ Final market summary sent.
+[2025-04-25 15:16:27] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 15:21:27] 🔄 Run started
+[2025-04-25 15:21:44] ⚠️ No new headlines found.
+[2025-04-25 15:21:49] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 15:26:49] 🔄 Run started
+[2025-04-25 15:27:06] ⚠️ No new headlines found.
+[2025-04-25 15:27:11] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 15:32:11] 🔄 Run started
+[2025-04-25 15:32:28] 📰 18 new headlines fetched.
+[2025-04-25 15:32:35] 📤 Commodities headlines sent.
+[2025-04-25 15:32:39] 📤 Global headlines sent.
+[2025-04-25 15:32:40] 📤 Europe headlines sent.
+[2025-04-25 15:32:42] 📤 US headlines sent.
+[2025-04-25 15:32:44] ✅ Final market summary sent.
+[2025-04-25 15:32:44] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 15:37:44] 🔄 Run started
+[2025-04-25 15:38:02] ⚠️ No new headlines found.
+[2025-04-25 15:38:07] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 15:43:08] 🔄 Run started
+[2025-04-25 15:43:25] ⚠️ No new headlines found.
+[2025-04-25 15:43:30] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 15:48:30] 🔄 Run started
+[2025-04-25 15:48:48] 📰 20 new headlines fetched.
+[2025-04-25 15:48:57] 📤 Crypto headlines sent.
+[2025-04-25 15:49:00] 📤 Global headlines sent.
+[2025-04-25 15:49:01] 📤 Commodities headlines sent.
+[2025-04-25 15:49:04] 📤 Europe headlines sent.
+[2025-04-25 15:49:07] 📤 US headlines sent.
+[2025-04-25 15:49:11] ✅ Final market summary sent.
+[2025-04-25 15:49:11] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 15:54:11] 🔄 Run started
+[2025-04-25 15:54:28] ⚠️ No new headlines found.
+[2025-04-25 15:54:33] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 15:59:33] 🔄 Run started
+[2025-04-25 15:59:52] 📰 12 new headlines fetched.
+[2025-04-25 15:59:59] 📤 Global headlines sent.
+[2025-04-25 16:00:04] 📤 US headlines sent.
+[2025-04-25 16:00:06] 📤 Asia headlines sent.
+[2025-04-25 16:00:08] ✅ Final market summary sent.
+[2025-04-25 16:00:08] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 16:05:09] 🔄 Run started
+[2025-04-25 16:05:26] ⚠️ No new headlines found.
+[2025-04-25 16:05:31] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 16:10:32] 🔄 Run started
+[2025-04-25 16:10:48] 📰 7 new headlines fetched.
+[2025-04-25 16:10:58] 📤 Asia headlines sent.
+[2025-04-25 16:11:01] 📤 Global headlines sent.
+[2025-04-25 16:11:03] 📤 US headlines sent.
+[2025-04-25 16:11:05] 📤 Europe headlines sent.
+[2025-04-25 16:11:08] ✅ Final market summary sent.
+[2025-04-25 16:11:08] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 16:16:08] 🔄 Run started
+[2025-04-25 16:16:25] ⚠️ No new headlines found.
+[2025-04-25 16:16:30] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 16:21:31] 🔄 Run started
+[2025-04-25 16:21:51] ⚠️ No new headlines found.
+[2025-04-25 16:21:56] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 16:26:56] 🔄 Run started
+[2025-04-25 16:27:16] 📰 10 new headlines fetched.
+[2025-04-25 16:27:24] 📤 US headlines sent.
+[2025-04-25 16:27:28] 📤 Global headlines sent.
+[2025-04-25 16:27:32] ✅ Final market summary sent.
+[2025-04-25 16:27:32] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 16:32:33] 🔄 Run started
+[2025-04-25 16:32:52] ⚠️ No new headlines found.
+[2025-04-25 16:32:57] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 16:37:57] 🔄 Run started
+[2025-04-25 16:38:17] 📰 11 new headlines fetched.
+[2025-04-25 16:38:23] 📤 Europe headlines sent.
+[2025-04-25 16:38:27] 📤 Global headlines sent.
+[2025-04-25 16:38:29] 📤 US headlines sent.
+[2025-04-25 16:38:32] ✅ Final market summary sent.
+[2025-04-25 16:38:32] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 16:43:32] 🔄 Run started
+[2025-04-25 16:43:50] 📰 2 new headlines fetched.
+[2025-04-25 16:43:56] 📤 Europe headlines sent.
+[2025-04-25 16:43:58] 📤 Global headlines sent.
+[2025-04-25 16:44:02] ✅ Final market summary sent.
+[2025-04-25 16:44:02] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 16:49:02] 🔄 Run started
+[2025-04-25 16:49:20] 📰 10 new headlines fetched.
+[2025-04-25 16:49:28] 📤 US headlines sent.
+[2025-04-25 16:49:32] 📤 Global headlines sent.
+[2025-04-25 16:49:33] 📤 Asia headlines sent.
+[2025-04-25 16:49:35] ✅ Final market summary sent.
+[2025-04-25 16:49:35] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 16:54:35] 🔄 Run started
+[2025-04-25 16:54:55] ⚠️ No new headlines found.
+[2025-04-25 16:55:00] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 17:00:00] 🔄 Run started
+[2025-04-25 17:00:18] ⚠️ No new headlines found.
+[2025-04-25 17:00:23] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 17:05:24] 🔄 Run started
+[2025-04-25 17:05:43] 📰 6 new headlines fetched.
+[2025-04-25 17:05:49] 📤 Crypto headlines sent.
+[2025-04-25 17:05:54] 📤 US headlines sent.
+[2025-04-25 17:05:56] 📤 Global headlines sent.
+[2025-04-25 17:06:00] ✅ Final market summary sent.
+[2025-04-25 17:06:00] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 17:11:00] 🔄 Run started
+[2025-04-25 17:11:18] ⚠️ No new headlines found.
+[2025-04-25 17:11:23] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 17:16:23] 🔄 Run started
+[2025-04-25 17:16:41] 📰 9 new headlines fetched.
+[2025-04-25 17:16:51] 📤 Global headlines sent.
+[2025-04-25 17:16:53] 📤 US headlines sent.
+[2025-04-25 17:16:54] 📤 Crypto headlines sent.
+[2025-04-25 17:16:56] 📤 Asia headlines sent.
+[2025-04-25 17:16:59] ✅ Final market summary sent.
+[2025-04-25 17:16:59] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 17:21:59] 🔄 Run started
+[2025-04-25 17:22:16] ⚠️ No new headlines found.
+[2025-04-25 17:22:21] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 17:27:21] 🔄 Run started
+[2025-04-25 17:27:40] 📰 2 new headlines fetched.
+[2025-04-25 17:27:49] 📤 Global headlines sent.
+[2025-04-25 17:27:51] 📤 Asia headlines sent.
+[2025-04-25 17:27:54] ✅ Final market summary sent.
+[2025-04-25 17:27:54] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 17:32:54] 🔄 Run started
+[2025-04-25 17:33:16] 📰 2 new headlines fetched.
+[2025-04-25 17:33:23] 📤 Europe headlines sent.
+[2025-04-25 17:33:27] ✅ Final market summary sent.
+[2025-04-25 17:33:27] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 17:38:27] 🔄 Run started
+[2025-04-25 17:38:45] ⚠️ No new headlines found.
+[2025-04-25 17:38:50] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 17:43:50] 🔄 Run started
+[2025-04-25 17:44:08] 📰 1 new headlines fetched.
+[2025-04-25 17:44:15] 📤 US headlines sent.
+[2025-04-25 17:44:19] ✅ Final market summary sent.
+[2025-04-25 17:44:19] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 17:49:19] 🔄 Run started
+[2025-04-25 17:49:35] 📰 2 new headlines fetched.
+[2025-04-25 17:49:43] 📤 Global headlines sent.
+[2025-04-25 17:49:49] ✅ Final market summary sent.
+[2025-04-25 17:49:49] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 17:54:49] 🔄 Run started
+[2025-04-25 17:55:06] ⚠️ No new headlines found.
+[2025-04-25 17:55:11] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 18:00:11] 🔄 Run started
+[2025-04-25 18:00:29] 📰 3 new headlines fetched.
+[2025-04-25 18:00:36] 📤 US headlines sent.
+[2025-04-25 18:00:38] 📤 Asia headlines sent.
+[2025-04-25 18:00:41] ✅ Final market summary sent.
+[2025-04-25 18:00:41] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 18:05:41] 🔄 Run started
+[2025-04-25 18:05:58] ⚠️ No new headlines found.
+[2025-04-25 18:06:03] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 18:11:03] 🔄 Run started
+[2025-04-25 18:11:17] 📰 6 new headlines fetched.
+[2025-04-25 18:11:26] 📤 Global headlines sent.
+[2025-04-25 18:11:29] 📤 US headlines sent.
+[2025-04-25 18:11:31] 📤 Europe headlines sent.
+[2025-04-25 18:11:33] 📤 Asia headlines sent.
+[2025-04-25 18:11:36] ✅ Final market summary sent.
+[2025-04-25 18:11:36] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 18:16:36] 🔄 Run started
+[2025-04-25 18:17:03] ⚠️ No new headlines found.
+[2025-04-25 18:17:08] ✅ Run complete. Waiting 5 minutes...
+[2025-04-25 18:22:08] 🔄 Run started
+[2025-04-25 18:22:28] 📰 4 new headlines fetched.
+[2025-04-25 18:22:39] 📤 Europe headlines sent.
+[2025-04-25 18:22:42] 📤 Asia headlines sent.
+[2025-04-25 18:22:45] 📤 Global headlines sent.
+[2025-04-25 18:22:47] 📤 US headlines sent.
+[2025-04-25 18:22:51] ✅ Final market summary sent.
+[2025-04-25 18:22:51] ✅ Run complete. Waiting 5 minutes...
